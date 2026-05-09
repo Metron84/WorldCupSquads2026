@@ -28,6 +28,13 @@ OUT = ROOT / "data" / "generated" / "wcq_qualifying_stats.json"
 WCQ_SHEETS = ("UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC")
 KEEP = ("Player", "Squad", "MP", "Min", "Gls", "Ast")
 
+# Canonical app slug → FBref `Squad` slug key in `by_team_slug` when labels differ.
+DEFAULT_WCQ_EXTRA_KEYS: dict[str, str] = {
+    "united-states": "usa",
+    "south-korea": "korea-republic",
+    "czechia": "czech-republic",
+}
+
 
 def slugify(name: str) -> str:
     s = name.lower().strip()
@@ -136,9 +143,22 @@ def main() -> int:
             }
         )
 
+    file_extra: dict[str, str] = {}
+    if OUT.is_file():
+        try:
+            old = json.loads(OUT.read_text(encoding="utf-8"))
+            raw = old.get("wcq_extra_keys")
+            if isinstance(raw, dict):
+                file_extra = {str(k): str(v) for k, v in raw.items()}
+        except (json.JSONDecodeError, OSError, TypeError):
+            pass
+
+    merged_extra = {**DEFAULT_WCQ_EXTRA_KEYS, **file_extra}
+
     payload = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "source_note": "FBref WCQ sheets from WC2026_Player_Stats.xlsx — merged on team pages by slugified Squad name.",
+        "wcq_extra_keys": merged_extra,
         "by_team_slug": {k: sorted(v, key=lambda r: (-r["minutes"], r["player"])) for k, v in sorted(by_slug.items())},
     }
 

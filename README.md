@@ -108,6 +108,8 @@ npm run data:wcq:export
 
 This writes `data/generated/wcq_qualifying_stats.json` from the WCQ sheets (`UEFA`, `CONMEBOL`, …). Team pages merge rows onto projected players by **nation name → slug** (same as URLs) and **player name** (exact / fuzzy match to FBref `Player`). Re-run after refreshing the workbook.
 
+If FBref’s `Squad` label produces a different slug than the app (e.g. `USA` → `usa` vs route `united-states`), add or adjust **`wcq_extra_keys`** in that JSON (canonical slug → JSON key). Defaults are merged from the export script; your file overrides win.
+
 ## Scoring logic
 
 Selection score combines:

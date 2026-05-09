@@ -13,10 +13,26 @@ export type WcqRow = {
 export type WcqQualifyingFile = {
   updated_at: string | null;
   source_note?: string;
+  /**
+   * When FBref `Squad` slug differs from the app team URL slug, map canonical slug → key used in `by_team_slug`.
+   * Example: FBref uses `USA` → `usa`; app route is `united-states`.
+   */
+  wcq_extra_keys?: Record<string, string>;
   by_team_slug: Record<string, WcqRow[]>;
 };
 
 const WCQ_DATA = wcqFile as WcqQualifyingFile;
+
+function getWcqRowsForCanonicalSlug(slug: string): WcqRow[] | undefined {
+  const direct = WCQ_DATA.by_team_slug[slug];
+  if (direct?.length) return direct;
+  const altKey = WCQ_DATA.wcq_extra_keys?.[slug];
+  if (altKey) {
+    const alt = WCQ_DATA.by_team_slug[altKey];
+    if (alt?.length) return alt;
+  }
+  return undefined;
+}
 
 function normalizeName(text: string): string {
   return text
@@ -116,7 +132,7 @@ function rowToStats(row: WcqRow): WcqPlayerStats {
 /** Attach WCQ totals from generated JSON when names match FBref rows for this nation. */
 export function mergeWcqIntoProjection(projection: TeamProjection): TeamProjection {
   const slug = slugifyTeam(projection.team);
-  const rows = WCQ_DATA.by_team_slug[slug];
+  const rows = getWcqRowsForCanonicalSlug(slug);
   if (!rows?.length) return projection;
 
   const enrich = (p: ProjectedPlayer): ProjectedPlayer => {
@@ -142,5 +158,5 @@ export function getWcqMeta(): { updatedAt: string | null; sourceNote?: string } 
 
 export function teamHasWcqRows(teamName: string): boolean {
   const slug = slugifyTeam(teamName);
-  return (WCQ_DATA.by_team_slug[slug]?.length ?? 0) > 0;
+  return (getWcqRowsForCanonicalSlug(slug)?.length ?? 0) > 0;
 }
