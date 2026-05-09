@@ -1,0 +1,15 @@
+[
+  { "team": "Argentina", "confederation": "CONMEBOL", "qualifiedVia": "CONMEBOL qualification" },
+  { "team": "Australia", "confederation": "AFC", "qualifiedVia": "AFC qualification" },
+  { "team": "Brazil", "confederation": "CONMEBOL", "qualifiedVia": "CONMEBOL qualification" },
+  { "team": "Canada", "confederation": "Host", "qualifiedVia": "Host nation" },
+  { "team": "Ecuador", "confederation": "CONMEBOL", "qualifiedVia": "CONMEBOL qualification" },
+  { "team": "Iran", "confederation": "AFC", "qualifiedVia": "AFC qualification" },
+  { "team": "Japan", "confederation": "AFC", "qualifiedVia": "AFC qualification" },
+  { "team": "Jordan", "confederation": "AFC", "qualifiedVia": "AFC qualification" },
+  { "team": "Mexico", "confederation": "Host", "qualifiedVia": "Host nation" },
+  { "team": "New Zealand", "confederation": "OFC", "qualifiedVia": "OFC qualification" },
+  { "team": "South Korea", "confederation": "AFC", "qualifiedVia": "AFC qualification" },
+  { "team": "United States", "confederation": "Host", "qualifiedVia": "Host nation" },
+  { "team": "Uzbekistan", "confederation": "AFC", "qualifiedVia": "AFC qualification" }
+]
