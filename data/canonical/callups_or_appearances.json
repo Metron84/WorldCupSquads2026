@@ -1,0 +1,272 @@
+[
+  {
+    "record_id": "c01",
+    "player_id": "p02",
+    "match_id": "m01",
+    "team_id": "t01",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-11"
+  },
+  {
+    "record_id": "c02",
+    "player_id": "p03",
+    "match_id": "m01",
+    "team_id": "t02",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-11"
+  },
+  {
+    "record_id": "c03",
+    "player_id": "p04",
+    "match_id": "m02",
+    "team_id": "t03",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-12"
+  },
+  {
+    "record_id": "c04",
+    "player_id": "p05",
+    "match_id": "m02",
+    "team_id": "t04",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-12"
+  },
+  {
+    "record_id": "c05",
+    "player_id": "p20",
+    "match_id": "m03",
+    "team_id": "t05",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-12"
+  },
+  {
+    "record_id": "c06",
+    "player_id": "p21",
+    "match_id": "m03",
+    "team_id": "t06",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-12"
+  },
+  {
+    "record_id": "c07",
+    "player_id": "p06",
+    "match_id": "m04",
+    "team_id": "t07",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-13"
+  },
+  {
+    "record_id": "c08",
+    "player_id": "p07",
+    "match_id": "m04",
+    "team_id": "t08",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-13"
+  },
+  {
+    "record_id": "c09",
+    "player_id": "p08",
+    "match_id": "m05",
+    "team_id": "t09",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-13"
+  },
+  {
+    "record_id": "c10",
+    "player_id": "p09",
+    "match_id": "m05",
+    "team_id": "t10",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-13"
+  },
+  {
+    "record_id": "c11",
+    "player_id": "p10",
+    "match_id": "m06",
+    "team_id": "t11",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-14"
+  },
+  {
+    "record_id": "c12",
+    "player_id": "p11",
+    "match_id": "m06",
+    "team_id": "t12",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-14"
+  },
+  {
+    "record_id": "c13",
+    "player_id": "p30",
+    "match_id": "m07",
+    "team_id": "t13",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-14"
+  },
+  {
+    "record_id": "c14",
+    "player_id": "p12",
+    "match_id": "m07",
+    "team_id": "t14",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-14"
+  },
+  {
+    "record_id": "c15",
+    "player_id": "p13",
+    "match_id": "m08",
+    "team_id": "t15",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-15"
+  },
+  {
+    "record_id": "c16",
+    "player_id": "p14",
+    "match_id": "m08",
+    "team_id": "t16",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-15"
+  },
+  {
+    "record_id": "c17",
+    "player_id": "p01",
+    "match_id": "m09",
+    "team_id": "t17",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-15"
+  },
+  {
+    "record_id": "c18",
+    "player_id": "p16",
+    "match_id": "m09",
+    "team_id": "t18",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-15"
+  },
+  {
+    "record_id": "c19",
+    "player_id": "p18",
+    "match_id": "m10",
+    "team_id": "t19",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-16"
+  },
+  {
+    "record_id": "c20",
+    "player_id": "p19",
+    "match_id": "m10",
+    "team_id": "t20",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-16"
+  },
+  {
+    "record_id": "c21",
+    "player_id": "p28",
+    "match_id": "m11",
+    "team_id": "t21",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-16"
+  },
+  {
+    "record_id": "c22",
+    "player_id": "p27",
+    "match_id": "m11",
+    "team_id": "t22",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-16"
+  },
+  {
+    "record_id": "c23",
+    "player_id": "p22",
+    "match_id": "m12",
+    "team_id": "t23",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-17"
+  },
+  {
+    "record_id": "c24",
+    "player_id": "p23",
+    "match_id": "m12",
+    "team_id": "t24",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-17"
+  },
+  {
+    "record_id": "c25",
+    "player_id": "p24",
+    "match_id": "m13",
+    "team_id": "t25",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-17"
+  },
+  {
+    "record_id": "c26",
+    "player_id": "p15",
+    "match_id": "m13",
+    "team_id": "t26",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-17"
+  },
+  {
+    "record_id": "c27",
+    "player_id": "p29",
+    "match_id": "m14",
+    "team_id": "t27",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-18"
+  },
+  {
+    "record_id": "c28",
+    "player_id": "p25",
+    "match_id": "m14",
+    "team_id": "t28",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-18"
+  },
+  {
+    "record_id": "c29",
+    "player_id": "p26",
+    "match_id": "m15",
+    "team_id": "t29",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-18"
+  },
+  {
+    "record_id": "c30",
+    "player_id": "p17",
+    "match_id": "m15",
+    "team_id": "t30",
+    "status": "starter",
+    "minutes_played": 0,
+    "projected_squad_date": "2026-06-18"
+  }
+]

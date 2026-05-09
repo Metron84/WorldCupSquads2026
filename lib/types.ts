@@ -65,6 +65,7 @@ export type TeamProjection = {
     friendlyMatchesUsed: number;
     dateRangeUsed: string;
     confidenceLevel: ConfidenceLevel;
+    sourcePenaltyMultiplier?: number;
     coverageWarnings: string[];
   };
   likely26: ProjectedPlayer[];
@@ -80,5 +81,6 @@ export type CompletenessReportRow = {
   friendlyMatchesUsed: number;
   dateRangeUsed: string;
   confidenceLevel: ConfidenceLevel;
+  sourcePenaltyMultiplier?: number;
   coverageWarnings: string[];
 };

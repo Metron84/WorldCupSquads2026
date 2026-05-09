@@ -1,0 +1,11 @@
+{
+  "migratedAt": "2026-05-09T09:52:13.048Z",
+  "counts": {
+    "teams": 30,
+    "players_master": 30,
+    "player_aliases": 30,
+    "matches": 30,
+    "callups_or_appearances": 30,
+    "availability_overrides": 30
+  }
+}

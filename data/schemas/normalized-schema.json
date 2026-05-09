@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "World Cup Squads Canonical Data Model",
+  "description": "Normalized schema mapped from Gemini draft with project-specific extensions for projection workflows.",
+  "definitions": {
+    "teams": {
+      "type": "object",
+      "properties": {
+        "team_id": { "type": "string" },
+        "name": { "type": "string" },
+        "short_name": { "type": "string" },
+        "confederation": {
+          "type": "string",
+          "enum": ["UEFA", "CAF", "AFC", "CONMEBOL", "CONCACAF", "OFC", "Host"]
+        },
+        "qualification_method": { "type": "string" },
+        "qualification_status": { "type": "string", "enum": ["qualified", "tracked"] },
+        "fifa_rank": { "type": "integer" }
+      },
+      "required": ["team_id", "name", "confederation", "qualification_method"]
+    },
+    "players_master": {
+      "type": "object",
+      "properties": {
+        "player_id": { "type": "string" },
+        "canonical_name": { "type": "string" },
+        "dob": { "type": "string" },
+        "nationality_iso3": { "type": "string" },
+        "team_id": { "type": "string" }
+      },
+      "required": ["player_id", "canonical_name", "dob", "nationality_iso3", "team_id"]
+    },
+    "player_aliases": {
+      "type": "object",
+      "properties": {
+        "alias_id": { "type": "string" },
+        "player_id": { "type": "string" },
+        "alias_name": { "type": "string" },
+        "alias_type": {
+          "type": "string",
+          "enum": ["nickname", "transliteration", "maiden_name", "historical", "short_name", "source_variant"]
+        },
+        "confidence_score": { "type": "number" }
+      },
+      "required": ["alias_id", "player_id", "alias_name", "alias_type"]
+    },
+    "matches": {
+      "type": "object",
+      "properties": {
+        "match_id": { "type": "string" },
+        "date": { "type": "string" },
+        "home_team_id": { "type": "string" },
+        "away_team_id": { "type": "string" },
+        "stage": {
+          "type": "string",
+          "enum": ["group", "round_of_32", "round_of_16", "quarter_final", "semi_final", "final"]
+        },
+        "group_name": { "type": ["string", "null"] },
+        "status": { "type": "string", "enum": ["scheduled", "in_progress", "completed"] },
+        "competition_type": { "type": "string", "enum": ["qualifier", "friendly"] },
+        "source_tier": { "type": "string", "enum": ["gold", "silver", "bronze", "fallback"] }
+      },
+      "required": ["match_id", "date", "home_team_id", "away_team_id", "stage", "status"]
+    },
+    "callups_or_appearances": {
+      "type": "object",
+      "properties": {
+        "record_id": { "type": "string" },
+        "player_id": { "type": "string" },
+        "match_id": { "type": "string" },
+        "team_id": { "type": "string" },
+        "status": { "type": "string", "enum": ["starter", "substitute", "bench", "withdrawn"] },
+        "minutes_played": { "type": "integer" },
+        "projected_squad_date": { "type": "string" }
+      },
+      "required": ["record_id", "player_id", "match_id", "team_id", "status"]
+    },
+    "availability_overrides": {
+      "type": "object",
+      "properties": {
+        "override_id": { "type": "string" },
+        "player_id": { "type": "string" },
+        "start_date": { "type": "string" },
+        "end_date": { "type": ["string", "null"] },
+        "reason": { "type": "string", "enum": ["injury", "suspension", "personal", "other"] },
+        "status": { "type": "string", "enum": ["available", "doubtful", "injured", "suspended", "unavailable"] },
+        "notes": { "type": "string" }
+      },
+      "required": ["override_id", "player_id", "start_date", "reason", "status"]
+    }
+  }
+}

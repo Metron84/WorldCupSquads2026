@@ -1,0 +1,212 @@
+[
+  {
+    "player_id": "p01",
+    "canonical_name": "Lionel Andrés Messi",
+    "dob": "1987-06-24",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p02",
+    "canonical_name": "Edson Álvarez",
+    "dob": "1997-10-24",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p03",
+    "canonical_name": "Lyle Foster",
+    "dob": "2000-09-03",
+    "nationality_iso3": "ZAF",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p04",
+    "canonical_name": "Alphonso Davies",
+    "dob": "2000-11-02",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p05",
+    "canonical_name": "Granit Xhaka",
+    "dob": "1992-09-27",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p06",
+    "canonical_name": "Viktor Gyökeres",
+    "dob": "1998-06-04",
+    "nationality_iso3": "SWE",
+    "team_id": "t07"
+  },
+  {
+    "player_id": "p07",
+    "canonical_name": "Virgil van Dijk",
+    "dob": "1991-07-08",
+    "nationality_iso3": "NLD",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p08",
+    "canonical_name": "Takefusa Kubo",
+    "dob": "2001-06-04",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p09",
+    "canonical_name": "Youssef Msakni",
+    "dob": "1990-10-28",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p10",
+    "canonical_name": "Christian Pulisic",
+    "dob": "1998-09-18",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p11",
+    "canonical_name": "Eloy Room",
+    "dob": "1989-02-06",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p12",
+    "canonical_name": "Eldor Shomurodov",
+    "dob": "1995-06-29",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p13",
+    "canonical_name": "Musa Al-Taamari",
+    "dob": "1997-06-10",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p14",
+    "canonical_name": "Aymen Hussein",
+    "dob": "1996-03-22",
+    "nationality_iso3": "IRQ",
+    "team_id": "t16"
+  },
+  {
+    "player_id": "p15",
+    "canonical_name": "Mohamed Salah Ghaly",
+    "dob": "1992-06-15",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p16",
+    "canonical_name": "Vinícius Júnior",
+    "dob": "2000-07-12",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p17",
+    "canonical_name": "Kylian Mbappé",
+    "dob": "1998-12-20",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p18",
+    "canonical_name": "Luis Alberto Suárez",
+    "dob": "1987-01-24",
+    "nationality_iso3": "URY",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p19",
+    "canonical_name": "Luis Javier Suárez",
+    "dob": "1997-12-02",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p20",
+    "canonical_name": "Akram Afif",
+    "dob": "1996-11-18",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p21",
+    "canonical_name": "Edin Džeko",
+    "dob": "1986-03-17",
+    "nationality_iso3": "BIH",
+    "team_id": "t06"
+  },
+  {
+    "player_id": "p22",
+    "canonical_name": "Chris Wood",
+    "dob": "1991-12-07",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p23",
+    "canonical_name": "Achraf Hakimi",
+    "dob": "1998-11-04",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p24",
+    "canonical_name": "Sadio Mané",
+    "dob": "1992-04-10",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p25",
+    "canonical_name": "Chancel Mbemba",
+    "dob": "1994-08-08",
+    "nationality_iso3": "COD",
+    "team_id": "t28"
+  },
+  {
+    "player_id": "p26",
+    "canonical_name": "Rodri Hernández",
+    "dob": "1996-06-22",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p27",
+    "canonical_name": "Miguel Almirón",
+    "dob": "1994-02-10",
+    "nationality_iso3": "PRY",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p28",
+    "canonical_name": "Moises Caicedo",
+    "dob": "2001-11-02",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p29",
+    "canonical_name": "Ryan Mendes",
+    "dob": "1990-01-08",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p30",
+    "canonical_name": "Frantzdy Pierrot",
+    "dob": "1995-03-29",
+    "nationality_iso3": "HTI",
+    "team_id": "t13"
+  }
+]

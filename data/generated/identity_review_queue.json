@@ -1,0 +1,110 @@
+[
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p01",
+    "canonical_name": "Lionel Andrés Messi",
+    "best_alias_similarity": 0.9267
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p02",
+    "canonical_name": "Edson Álvarez",
+    "best_alias_similarity": 0.5131
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p04",
+    "canonical_name": "Alphonso Davies",
+    "best_alias_similarity": 0.6127
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p07",
+    "canonical_name": "Virgil van Dijk",
+    "best_alias_similarity": 0.88
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p08",
+    "canonical_name": "Takefusa Kubo",
+    "best_alias_similarity": 0.9051
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p10",
+    "canonical_name": "Christian Pulisic",
+    "best_alias_similarity": 0.6262
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p13",
+    "canonical_name": "Musa Al-Taamari",
+    "best_alias_similarity": 0.9155
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p15",
+    "canonical_name": "Mohamed Salah Ghaly",
+    "best_alias_similarity": 0.7623
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p16",
+    "canonical_name": "Vinícius Júnior",
+    "best_alias_similarity": 0.8514
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p17",
+    "canonical_name": "Kylian Mbappé",
+    "best_alias_similarity": 0.4103
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p18",
+    "canonical_name": "Luis Alberto Suárez",
+    "best_alias_similarity": 0.6199
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p19",
+    "canonical_name": "Luis Javier Suárez",
+    "best_alias_similarity": 0.8768
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p20",
+    "canonical_name": "Akram Afif",
+    "best_alias_similarity": 0.9176
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p23",
+    "canonical_name": "Achraf Hakimi",
+    "best_alias_similarity": 0.9444
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p25",
+    "canonical_name": "Chancel Mbemba",
+    "best_alias_similarity": 0.8916
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p26",
+    "canonical_name": "Rodri Hernández",
+    "best_alias_similarity": 0.9154
+  },
+  {
+    "action": "CREATE_NEW_RECORD_CANDIDATE",
+    "player_id": "p27",
+    "canonical_name": "Miguel Almirón",
+    "best_alias_similarity": 0.7233
+  },
+  {
+    "action": "SEND_TO_MANUAL_REVIEW",
+    "player_id": "p28",
+    "canonical_name": "Moises Caicedo",
+    "best_alias_similarity": 0.8864
+  }
+]

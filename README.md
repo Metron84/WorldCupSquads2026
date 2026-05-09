@@ -20,33 +20,52 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Data model
+## Canonical data model
 
-### Raw inputs (`data/raw`)
+This project now uses an ID-driven canonical layer derived from the Gemini inputs.
 
-- `teams.json` - represented/qualified team metadata
-- `matches.json` - qualifier/friendly match windows
-- `callups_or_appearances.json` - per-match player selection rows
-- `availability-overrides.json` - manual injury/suspension/doubtful layer
+### Canonical tables (`data/canonical`)
+
+- `teams.json`
+- `players_master.json`
+- `player_aliases.json`
+- `matches.json`
+- `callups_or_appearances.json`
+- `availability_overrides.json`
+
+### Schema docs (`data/schemas`)
+
+- `normalized-schema.json` - schema definition and enums
+- `README.md` - field intent and referential links
 
 ### Generated outputs (`data/generated`)
 
-- `player_pool.json` - aggregated player features by team
+- `projections.json` - likely26/bubble/longshot by team
 - `completeness_report.json` - confidence and coverage warnings
-- `projections.json` - likely26/bubble/longshot projections
+- `identity_review_queue.json` - alias/name records needing manual review
+- `migration_report.json` - canonical migration counts
 
-## Pipeline stages
+## Data pipeline commands
+
+### Migration from Gemini source files
 
 ```bash
-npm run data:seed
-npm run data:load
-npm run data:normalize
-npm run data:aggregate
-npm run data:coverage
+npm run data:migrate
+```
+
+### Validate canonical referential integrity
+
+```bash
+npm run data:validate
+```
+
+### Build projections from canonical tables
+
+```bash
 npm run data:project
 ```
 
-Or run everything:
+### Full pipeline
 
 ```bash
 npm run data:build
@@ -84,7 +103,7 @@ Warnings are surfaced per team in `/coverage`.
 
 ## Injury & availability overrides
 
-Use `data/raw/availability-overrides.json` with statuses:
+Use `data/canonical/availability_overrides.json` with statuses:
 
 - `available`
 - `doubtful`
@@ -93,6 +112,18 @@ Use `data/raw/availability-overrides.json` with statuses:
 - `unavailable`
 
 The override layer affects score and likely26 eligibility.
+
+## Identity-resolution workflow
+
+The identity matching strategy uses normalized strings plus Jaro-Winkler similarity thresholds:
+
+- score `>= 0.95`: auto-link
+- score `>= 0.80`: send to manual review
+- score `< 0.80`: treat as new-record candidate
+
+Manual review queue is generated at:
+
+- `data/generated/identity_review_queue.json`
 
 ## Quality checks
 

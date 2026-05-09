@@ -7,12 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "data:seed": "node scripts/seed-representative-data.mjs",
-    "data:load": "node scripts/load-raw.mjs",
-    "data:normalize": "node scripts/normalize-players.mjs",
-    "data:aggregate": "node scripts/aggregate-team-player-features.mjs",
-    "data:coverage": "node scripts/build-completeness-report.mjs",
-    "data:project": "node scripts/project-squads.mjs",
+    "data:migrate": "node scripts/migrate-gemini-sources.mjs",
+    "data:validate": "node scripts/validate-canonical.mjs",
+    "data:project": "node scripts/build-projections-from-canonical.mjs",
     "data:build": "node scripts/build-all.mjs"
   },
   "dependencies": {

@@ -1,0 +1,212 @@
+[
+  {
+    "alias_id": "a01",
+    "player_id": "p01",
+    "alias_name": "Leo Messi",
+    "alias_type": "nickname",
+    "confidence_score": 1
+  },
+  {
+    "alias_id": "a02",
+    "player_id": "p01",
+    "alias_name": "La Pulga",
+    "alias_type": "nickname",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a03",
+    "player_id": "p01",
+    "alias_name": "Lionel Andrés Messi Cuccittini",
+    "alias_type": "historical",
+    "confidence_score": 0.98
+  },
+  {
+    "alias_id": "a04",
+    "player_id": "p06",
+    "alias_name": "Viktor Gyokeres",
+    "alias_type": "transliteration",
+    "confidence_score": 0.99
+  },
+  {
+    "alias_id": "a05",
+    "player_id": "p15",
+    "alias_name": "Mo Salah",
+    "alias_type": "nickname",
+    "confidence_score": 1
+  },
+  {
+    "alias_id": "a06",
+    "player_id": "p15",
+    "alias_name": "Muhammad Salah",
+    "alias_type": "transliteration",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a07",
+    "player_id": "p13",
+    "alias_name": "Mousa Al Tamari",
+    "alias_type": "transliteration",
+    "confidence_score": 0.96
+  },
+  {
+    "alias_id": "a08",
+    "player_id": "p13",
+    "alias_name": "Jordanian Messi",
+    "alias_type": "nickname",
+    "confidence_score": 0.85
+  },
+  {
+    "alias_id": "a09",
+    "player_id": "p20",
+    "alias_name": "Akram Hassan Afif",
+    "alias_type": "transliteration",
+    "confidence_score": 0.99
+  },
+  {
+    "alias_id": "a10",
+    "player_id": "p10",
+    "alias_name": "Captain America",
+    "alias_type": "nickname",
+    "confidence_score": 0.9
+  },
+  {
+    "alias_id": "a11",
+    "player_id": "p16",
+    "alias_name": "Vini Jr",
+    "alias_type": "nickname",
+    "confidence_score": 1
+  },
+  {
+    "alias_id": "a12",
+    "player_id": "p04",
+    "alias_name": "Phonzie",
+    "alias_type": "nickname",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a13",
+    "player_id": "p26",
+    "alias_name": "Rodrigo Hernandez Cascante",
+    "alias_type": "historical",
+    "confidence_score": 0.98
+  },
+  {
+    "alias_id": "a14",
+    "player_id": "p18",
+    "alias_name": "El Pistolero",
+    "alias_type": "nickname",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a15",
+    "player_id": "p19",
+    "alias_name": "Luis Suarez",
+    "alias_type": "transliteration",
+    "confidence_score": 0.99
+  },
+  {
+    "alias_id": "a16",
+    "player_id": "p17",
+    "alias_name": "Donatello",
+    "alias_type": "nickname",
+    "confidence_score": 0.8
+  },
+  {
+    "alias_id": "a17",
+    "player_id": "p02",
+    "alias_name": "El Machín",
+    "alias_type": "nickname",
+    "confidence_score": 0.9
+  },
+  {
+    "alias_id": "a18",
+    "player_id": "p21",
+    "alias_name": "Edin Dzeko",
+    "alias_type": "transliteration",
+    "confidence_score": 1
+  },
+  {
+    "alias_id": "a19",
+    "player_id": "p23",
+    "alias_name": "Achraf Hakimi Mouh",
+    "alias_type": "transliteration",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a20",
+    "player_id": "p08",
+    "alias_name": "Take Kubo",
+    "alias_type": "nickname",
+    "confidence_score": 0.98
+  },
+  {
+    "alias_id": "a21",
+    "player_id": "p09",
+    "alias_name": "Youssef Msakni",
+    "alias_type": "transliteration",
+    "confidence_score": 0.99
+  },
+  {
+    "alias_id": "a22",
+    "player_id": "p14",
+    "alias_name": "Ayman Hussein",
+    "alias_type": "transliteration",
+    "confidence_score": 0.9
+  },
+  {
+    "alias_id": "a23",
+    "player_id": "p27",
+    "alias_name": "Miggy",
+    "alias_type": "nickname",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a24",
+    "player_id": "p12",
+    "alias_name": "Eldor Shomurodov",
+    "alias_type": "transliteration",
+    "confidence_score": 0.98
+  },
+  {
+    "alias_id": "a25",
+    "player_id": "p25",
+    "alias_name": "Chancel Mangulu Mbemba",
+    "alias_type": "historical",
+    "confidence_score": 0.96
+  },
+  {
+    "alias_id": "a26",
+    "player_id": "p28",
+    "alias_name": "Moi Caicedo",
+    "alias_type": "nickname",
+    "confidence_score": 0.95
+  },
+  {
+    "alias_id": "a27",
+    "player_id": "p24",
+    "alias_name": "Sadio Mane",
+    "alias_type": "transliteration",
+    "confidence_score": 0.99
+  },
+  {
+    "alias_id": "a28",
+    "player_id": "p05",
+    "alias_name": "Granit Xhaka",
+    "alias_type": "transliteration",
+    "confidence_score": 1
+  },
+  {
+    "alias_id": "a29",
+    "player_id": "p07",
+    "alias_name": "Virgil",
+    "alias_type": "nickname",
+    "confidence_score": 0.85
+  },
+  {
+    "alias_id": "a30",
+    "player_id": "p30",
+    "alias_name": "Frantzdy Pierrot",
+    "alias_type": "transliteration",
+    "confidence_score": 1
+  }
+]
