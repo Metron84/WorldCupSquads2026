@@ -70,7 +70,7 @@
       ]
     },
     {
-      "source_id": "sofascope_match_feed",
+      "source_id": "sofascore_style_match_feed",
       "tier": "B",
       "kind": "match_report",
       "name": "Public match-day lineup apps / sites (generic bucket — SofaScore, FotMob, etc.)",
