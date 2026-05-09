@@ -95,6 +95,10 @@ npm run data:project
 npm run data:build
 ```
 
+### Optional: FBref → Excel (player minutes / goals by confederation)
+
+Python virtualenv and `scripts/fbref_wc2026_stats/` — see that folder’s `README.md`. Produces `WC2026_Player_Stats.xlsx` (not part of the Next.js build). FBref may return HTTP 403 from some networks; run locally if needed.
+
 ## Scoring logic
 
 Selection score combines:
