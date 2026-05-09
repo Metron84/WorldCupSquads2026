@@ -1,0 +1,26 @@
+[
+  {
+    "team": "Brazil",
+    "player": "Neymar Jr",
+    "status": "doubtful",
+    "reason": "fitness management"
+  },
+  {
+    "team": "France",
+    "player": "William Saliba",
+    "status": "injured",
+    "reason": "hamstring recovery"
+  },
+  {
+    "team": "England",
+    "player": "Luke Shaw",
+    "status": "doubtful",
+    "reason": "returning from injury"
+  },
+  {
+    "team": "Nigeria",
+    "player": "Victor Osimhen",
+    "status": "available",
+    "reason": "fully fit"
+  }
+]

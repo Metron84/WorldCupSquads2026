@@ -34,6 +34,9 @@ export default function RootLayout({
               <Link href="/teams" className="text-slate-700 hover:text-slate-900">
                 Teams
               </Link>
+              <Link href="/coverage" className="text-slate-700 hover:text-slate-900">
+                Coverage
+              </Link>
               <Link href="/methodology" className="text-slate-700 hover:text-slate-900">
                 Methodology
               </Link>

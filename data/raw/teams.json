@@ -1,0 +1,146 @@
+[
+  {
+    "team": "Argentina",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Brazil",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Ecuador",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Uruguay",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Canada",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Mexico",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "United States",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Japan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "South Korea",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Iran",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Australia",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Uzbekistan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "Jordan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "New Zealand",
+    "confederation": "OFC",
+    "qualifiedVia": "OFC qualification",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "team": "France",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "England",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Spain",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Portugal",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Germany",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Italy",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Morocco",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Senegal",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Egypt",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked"
+  },
+  {
+    "team": "Nigeria",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked"
+  }
+]

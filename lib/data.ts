@@ -1,8 +1,13 @@
 import projections from "@/data/generated/projections.json";
-import type { TeamProjection } from "@/lib/types";
+import completenessReport from "@/data/generated/completeness_report.json";
+import type { CompletenessReportRow, TeamProjection } from "@/lib/types";
 
 export function getProjections(): TeamProjection[] {
   return projections as unknown as TeamProjection[];
+}
+
+export function getCompletenessReport(): CompletenessReportRow[] {
+  return completenessReport as unknown as CompletenessReportRow[];
 }
 
 export function slugifyTeam(team: string): string {

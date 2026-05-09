@@ -1,0 +1,2522 @@
+[
+  {
+    "matchId": "argentina-q-1",
+    "date": "2025-01-01",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "argentina-q-2",
+    "date": "2025-01-22",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "argentina-q-3",
+    "date": "2025-02-12",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "argentina-q-4",
+    "date": "2025-03-05",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "argentina-q-5",
+    "date": "2025-03-26",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "argentina-q-6",
+    "date": "2025-04-16",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "argentina-q-7",
+    "date": "2025-05-07",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "argentina-q-8",
+    "date": "2025-05-28",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "argentina-q-9",
+    "date": "2025-06-18",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "argentina-q-10",
+    "date": "2025-07-09",
+    "competitionType": "qualifier",
+    "team": "Argentina",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "argentina-f-1",
+    "date": "2025-09-18",
+    "competitionType": "friendly",
+    "team": "Argentina",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "argentina-f-2",
+    "date": "2025-10-03",
+    "competitionType": "friendly",
+    "team": "Argentina",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "argentina-f-3",
+    "date": "2025-10-18",
+    "competitionType": "friendly",
+    "team": "Argentina",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "argentina-f-4",
+    "date": "2025-11-02",
+    "competitionType": "friendly",
+    "team": "Argentina",
+    "opponent": "France"
+  },
+  {
+    "matchId": "argentina-f-5",
+    "date": "2025-11-17",
+    "competitionType": "friendly",
+    "team": "Argentina",
+    "opponent": "England"
+  },
+  {
+    "matchId": "brazil-q-1",
+    "date": "2025-01-15",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "brazil-q-2",
+    "date": "2025-02-05",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "brazil-q-3",
+    "date": "2025-02-26",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "brazil-q-4",
+    "date": "2025-03-19",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "brazil-q-5",
+    "date": "2025-04-09",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "brazil-q-6",
+    "date": "2025-04-30",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "brazil-q-7",
+    "date": "2025-05-21",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "brazil-q-8",
+    "date": "2025-06-11",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "brazil-q-9",
+    "date": "2025-07-02",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "brazil-q-10",
+    "date": "2025-07-23",
+    "competitionType": "qualifier",
+    "team": "Brazil",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "brazil-f-1",
+    "date": "2025-09-27",
+    "competitionType": "friendly",
+    "team": "Brazil",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "brazil-f-2",
+    "date": "2025-10-12",
+    "competitionType": "friendly",
+    "team": "Brazil",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "brazil-f-3",
+    "date": "2025-10-27",
+    "competitionType": "friendly",
+    "team": "Brazil",
+    "opponent": "France"
+  },
+  {
+    "matchId": "brazil-f-4",
+    "date": "2025-11-11",
+    "competitionType": "friendly",
+    "team": "Brazil",
+    "opponent": "England"
+  },
+  {
+    "matchId": "brazil-f-5",
+    "date": "2025-11-26",
+    "competitionType": "friendly",
+    "team": "Brazil",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "ecuador-q-1",
+    "date": "2025-01-29",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "ecuador-q-2",
+    "date": "2025-02-19",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "ecuador-q-3",
+    "date": "2025-03-12",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "ecuador-q-4",
+    "date": "2025-04-02",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "ecuador-q-5",
+    "date": "2025-04-23",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "ecuador-q-6",
+    "date": "2025-05-14",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "ecuador-q-7",
+    "date": "2025-06-04",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "ecuador-q-8",
+    "date": "2025-06-25",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "ecuador-q-9",
+    "date": "2025-07-16",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "ecuador-q-10",
+    "date": "2025-08-06",
+    "competitionType": "qualifier",
+    "team": "Ecuador",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "ecuador-f-1",
+    "date": "2025-10-06",
+    "competitionType": "friendly",
+    "team": "Ecuador",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "ecuador-f-2",
+    "date": "2025-10-21",
+    "competitionType": "friendly",
+    "team": "Ecuador",
+    "opponent": "France"
+  },
+  {
+    "matchId": "ecuador-f-3",
+    "date": "2025-11-05",
+    "competitionType": "friendly",
+    "team": "Ecuador",
+    "opponent": "England"
+  },
+  {
+    "matchId": "ecuador-f-4",
+    "date": "2025-11-20",
+    "competitionType": "friendly",
+    "team": "Ecuador",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "ecuador-f-5",
+    "date": "2025-12-05",
+    "competitionType": "friendly",
+    "team": "Ecuador",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "uruguay-q-1",
+    "date": "2025-02-12",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "uruguay-q-2",
+    "date": "2025-03-05",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "uruguay-q-3",
+    "date": "2025-03-26",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "uruguay-q-4",
+    "date": "2025-04-16",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "uruguay-q-5",
+    "date": "2025-05-07",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "uruguay-q-6",
+    "date": "2025-05-28",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "uruguay-q-7",
+    "date": "2025-06-18",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "uruguay-q-8",
+    "date": "2025-07-09",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "uruguay-q-9",
+    "date": "2025-07-30",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "uruguay-q-10",
+    "date": "2025-08-20",
+    "competitionType": "qualifier",
+    "team": "Uruguay",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "uruguay-f-1",
+    "date": "2025-10-15",
+    "competitionType": "friendly",
+    "team": "Uruguay",
+    "opponent": "France"
+  },
+  {
+    "matchId": "uruguay-f-2",
+    "date": "2025-10-30",
+    "competitionType": "friendly",
+    "team": "Uruguay",
+    "opponent": "England"
+  },
+  {
+    "matchId": "uruguay-f-3",
+    "date": "2025-11-14",
+    "competitionType": "friendly",
+    "team": "Uruguay",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "uruguay-f-4",
+    "date": "2025-11-29",
+    "competitionType": "friendly",
+    "team": "Uruguay",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "uruguay-f-5",
+    "date": "2025-12-14",
+    "competitionType": "friendly",
+    "team": "Uruguay",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "canada-q-1",
+    "date": "2025-02-26",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "canada-q-2",
+    "date": "2025-03-19",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "canada-q-3",
+    "date": "2025-04-09",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "canada-q-4",
+    "date": "2025-04-30",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "canada-q-5",
+    "date": "2025-05-21",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "canada-q-6",
+    "date": "2025-06-11",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "canada-q-7",
+    "date": "2025-07-02",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "canada-q-8",
+    "date": "2025-07-23",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "canada-q-9",
+    "date": "2025-08-13",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "canada-q-10",
+    "date": "2025-09-03",
+    "competitionType": "qualifier",
+    "team": "Canada",
+    "opponent": "France"
+  },
+  {
+    "matchId": "canada-f-1",
+    "date": "2025-10-24",
+    "competitionType": "friendly",
+    "team": "Canada",
+    "opponent": "England"
+  },
+  {
+    "matchId": "canada-f-2",
+    "date": "2025-11-08",
+    "competitionType": "friendly",
+    "team": "Canada",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "canada-f-3",
+    "date": "2025-11-23",
+    "competitionType": "friendly",
+    "team": "Canada",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "canada-f-4",
+    "date": "2025-12-08",
+    "competitionType": "friendly",
+    "team": "Canada",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "canada-f-5",
+    "date": "2025-12-23",
+    "competitionType": "friendly",
+    "team": "Canada",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "mexico-q-1",
+    "date": "2025-03-12",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "mexico-q-2",
+    "date": "2025-04-02",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "mexico-q-3",
+    "date": "2025-04-23",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "mexico-q-4",
+    "date": "2025-05-14",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "mexico-q-5",
+    "date": "2025-06-04",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "mexico-q-6",
+    "date": "2025-06-25",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "mexico-q-7",
+    "date": "2025-07-16",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "mexico-q-8",
+    "date": "2025-08-06",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "mexico-q-9",
+    "date": "2025-08-27",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "France"
+  },
+  {
+    "matchId": "mexico-q-10",
+    "date": "2025-09-17",
+    "competitionType": "qualifier",
+    "team": "Mexico",
+    "opponent": "England"
+  },
+  {
+    "matchId": "mexico-f-1",
+    "date": "2025-11-02",
+    "competitionType": "friendly",
+    "team": "Mexico",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "mexico-f-2",
+    "date": "2025-11-17",
+    "competitionType": "friendly",
+    "team": "Mexico",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "mexico-f-3",
+    "date": "2025-12-02",
+    "competitionType": "friendly",
+    "team": "Mexico",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "mexico-f-4",
+    "date": "2025-12-17",
+    "competitionType": "friendly",
+    "team": "Mexico",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "mexico-f-5",
+    "date": "2026-01-01",
+    "competitionType": "friendly",
+    "team": "Mexico",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "united-states-q-1",
+    "date": "2025-03-26",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "united-states-q-2",
+    "date": "2025-04-16",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "united-states-q-3",
+    "date": "2025-05-07",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "united-states-q-4",
+    "date": "2025-05-28",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "united-states-q-5",
+    "date": "2025-06-18",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "united-states-q-6",
+    "date": "2025-07-09",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "united-states-q-7",
+    "date": "2025-07-30",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "united-states-q-8",
+    "date": "2025-08-20",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "France"
+  },
+  {
+    "matchId": "united-states-q-9",
+    "date": "2025-09-10",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "England"
+  },
+  {
+    "matchId": "united-states-q-10",
+    "date": "2025-10-01",
+    "competitionType": "qualifier",
+    "team": "United States",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "united-states-f-1",
+    "date": "2025-11-11",
+    "competitionType": "friendly",
+    "team": "United States",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "united-states-f-2",
+    "date": "2025-11-26",
+    "competitionType": "friendly",
+    "team": "United States",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "united-states-f-3",
+    "date": "2025-12-11",
+    "competitionType": "friendly",
+    "team": "United States",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "united-states-f-4",
+    "date": "2025-12-26",
+    "competitionType": "friendly",
+    "team": "United States",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "united-states-f-5",
+    "date": "2026-01-10",
+    "competitionType": "friendly",
+    "team": "United States",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "japan-q-1",
+    "date": "2025-04-09",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "japan-q-2",
+    "date": "2025-04-30",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "japan-q-3",
+    "date": "2025-05-21",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "japan-q-4",
+    "date": "2025-06-11",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "japan-q-5",
+    "date": "2025-07-02",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "japan-q-6",
+    "date": "2025-07-23",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "japan-q-7",
+    "date": "2025-08-13",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "France"
+  },
+  {
+    "matchId": "japan-q-8",
+    "date": "2025-09-03",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "England"
+  },
+  {
+    "matchId": "japan-q-9",
+    "date": "2025-09-24",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "japan-q-10",
+    "date": "2025-10-15",
+    "competitionType": "qualifier",
+    "team": "Japan",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "japan-f-1",
+    "date": "2025-11-20",
+    "competitionType": "friendly",
+    "team": "Japan",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "japan-f-2",
+    "date": "2025-12-05",
+    "competitionType": "friendly",
+    "team": "Japan",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "japan-f-3",
+    "date": "2025-12-20",
+    "competitionType": "friendly",
+    "team": "Japan",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "japan-f-4",
+    "date": "2026-01-04",
+    "competitionType": "friendly",
+    "team": "Japan",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "japan-f-5",
+    "date": "2026-01-19",
+    "competitionType": "friendly",
+    "team": "Japan",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "south-korea-q-1",
+    "date": "2025-04-23",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "south-korea-q-2",
+    "date": "2025-05-14",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "south-korea-q-3",
+    "date": "2025-06-04",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "south-korea-q-4",
+    "date": "2025-06-25",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "south-korea-q-5",
+    "date": "2025-07-16",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "south-korea-q-6",
+    "date": "2025-08-06",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "France"
+  },
+  {
+    "matchId": "south-korea-q-7",
+    "date": "2025-08-27",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "England"
+  },
+  {
+    "matchId": "south-korea-q-8",
+    "date": "2025-09-17",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "south-korea-q-9",
+    "date": "2025-10-08",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "south-korea-q-10",
+    "date": "2025-10-29",
+    "competitionType": "qualifier",
+    "team": "South Korea",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "south-korea-f-1",
+    "date": "2025-11-29",
+    "competitionType": "friendly",
+    "team": "South Korea",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "south-korea-f-2",
+    "date": "2025-12-14",
+    "competitionType": "friendly",
+    "team": "South Korea",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "south-korea-f-3",
+    "date": "2025-12-29",
+    "competitionType": "friendly",
+    "team": "South Korea",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "south-korea-f-4",
+    "date": "2026-01-13",
+    "competitionType": "friendly",
+    "team": "South Korea",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "south-korea-f-5",
+    "date": "2026-01-28",
+    "competitionType": "friendly",
+    "team": "South Korea",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "iran-q-1",
+    "date": "2025-05-07",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "iran-q-2",
+    "date": "2025-05-28",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "iran-q-3",
+    "date": "2025-06-18",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "iran-q-4",
+    "date": "2025-07-09",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "iran-q-5",
+    "date": "2025-07-30",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "France"
+  },
+  {
+    "matchId": "iran-q-6",
+    "date": "2025-08-20",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "England"
+  },
+  {
+    "matchId": "iran-q-7",
+    "date": "2025-09-10",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "iran-q-8",
+    "date": "2025-10-01",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "iran-q-9",
+    "date": "2025-10-22",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "iran-q-10",
+    "date": "2025-11-12",
+    "competitionType": "qualifier",
+    "team": "Iran",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "iran-f-1",
+    "date": "2025-12-08",
+    "competitionType": "friendly",
+    "team": "Iran",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "iran-f-2",
+    "date": "2025-12-23",
+    "competitionType": "friendly",
+    "team": "Iran",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "iran-f-3",
+    "date": "2026-01-07",
+    "competitionType": "friendly",
+    "team": "Iran",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "iran-f-4",
+    "date": "2026-01-22",
+    "competitionType": "friendly",
+    "team": "Iran",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "iran-f-5",
+    "date": "2026-02-06",
+    "competitionType": "friendly",
+    "team": "Iran",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "australia-q-1",
+    "date": "2025-05-21",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "australia-q-2",
+    "date": "2025-06-11",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "australia-q-3",
+    "date": "2025-07-02",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "australia-q-4",
+    "date": "2025-07-23",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "France"
+  },
+  {
+    "matchId": "australia-q-5",
+    "date": "2025-08-13",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "England"
+  },
+  {
+    "matchId": "australia-q-6",
+    "date": "2025-09-03",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "australia-q-7",
+    "date": "2025-09-24",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "australia-q-8",
+    "date": "2025-10-15",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "australia-q-9",
+    "date": "2025-11-05",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "australia-q-10",
+    "date": "2025-11-26",
+    "competitionType": "qualifier",
+    "team": "Australia",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "australia-f-1",
+    "date": "2025-12-17",
+    "competitionType": "friendly",
+    "team": "Australia",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "australia-f-2",
+    "date": "2026-01-01",
+    "competitionType": "friendly",
+    "team": "Australia",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "australia-f-3",
+    "date": "2026-01-16",
+    "competitionType": "friendly",
+    "team": "Australia",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "australia-f-4",
+    "date": "2026-01-31",
+    "competitionType": "friendly",
+    "team": "Australia",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "australia-f-5",
+    "date": "2026-02-15",
+    "competitionType": "friendly",
+    "team": "Australia",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "uzbekistan-q-1",
+    "date": "2025-06-04",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "uzbekistan-q-2",
+    "date": "2025-06-25",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "uzbekistan-q-3",
+    "date": "2025-07-16",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "France"
+  },
+  {
+    "matchId": "uzbekistan-q-4",
+    "date": "2025-08-06",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "England"
+  },
+  {
+    "matchId": "uzbekistan-q-5",
+    "date": "2025-08-27",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "uzbekistan-q-6",
+    "date": "2025-09-17",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "uzbekistan-q-7",
+    "date": "2025-10-08",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "uzbekistan-q-8",
+    "date": "2025-10-29",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "uzbekistan-q-9",
+    "date": "2025-11-19",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "uzbekistan-q-10",
+    "date": "2025-12-10",
+    "competitionType": "qualifier",
+    "team": "Uzbekistan",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "uzbekistan-f-1",
+    "date": "2025-12-26",
+    "competitionType": "friendly",
+    "team": "Uzbekistan",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "uzbekistan-f-2",
+    "date": "2026-01-10",
+    "competitionType": "friendly",
+    "team": "Uzbekistan",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "uzbekistan-f-3",
+    "date": "2026-01-25",
+    "competitionType": "friendly",
+    "team": "Uzbekistan",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "uzbekistan-f-4",
+    "date": "2026-02-09",
+    "competitionType": "friendly",
+    "team": "Uzbekistan",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "uzbekistan-f-5",
+    "date": "2026-02-24",
+    "competitionType": "friendly",
+    "team": "Uzbekistan",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "jordan-q-1",
+    "date": "2025-06-18",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "jordan-q-2",
+    "date": "2025-07-09",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "France"
+  },
+  {
+    "matchId": "jordan-q-3",
+    "date": "2025-07-30",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "England"
+  },
+  {
+    "matchId": "jordan-q-4",
+    "date": "2025-08-20",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "jordan-q-5",
+    "date": "2025-09-10",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "jordan-q-6",
+    "date": "2025-10-01",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "jordan-q-7",
+    "date": "2025-10-22",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "jordan-q-8",
+    "date": "2025-11-12",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "jordan-q-9",
+    "date": "2025-12-03",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "jordan-q-10",
+    "date": "2025-12-24",
+    "competitionType": "qualifier",
+    "team": "Jordan",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "jordan-f-1",
+    "date": "2026-01-04",
+    "competitionType": "friendly",
+    "team": "Jordan",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "jordan-f-2",
+    "date": "2026-01-19",
+    "competitionType": "friendly",
+    "team": "Jordan",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "jordan-f-3",
+    "date": "2026-02-03",
+    "competitionType": "friendly",
+    "team": "Jordan",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "jordan-f-4",
+    "date": "2026-02-18",
+    "competitionType": "friendly",
+    "team": "Jordan",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "jordan-f-5",
+    "date": "2026-03-05",
+    "competitionType": "friendly",
+    "team": "Jordan",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "new-zealand-q-1",
+    "date": "2025-07-02",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "France"
+  },
+  {
+    "matchId": "new-zealand-q-2",
+    "date": "2025-07-23",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "England"
+  },
+  {
+    "matchId": "new-zealand-q-3",
+    "date": "2025-08-13",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "new-zealand-q-4",
+    "date": "2025-09-03",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "new-zealand-q-5",
+    "date": "2025-09-24",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "new-zealand-q-6",
+    "date": "2025-10-15",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "new-zealand-q-7",
+    "date": "2025-11-05",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "new-zealand-q-8",
+    "date": "2025-11-26",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "new-zealand-q-9",
+    "date": "2025-12-17",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "new-zealand-q-10",
+    "date": "2026-01-07",
+    "competitionType": "qualifier",
+    "team": "New Zealand",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "new-zealand-f-1",
+    "date": "2026-01-13",
+    "competitionType": "friendly",
+    "team": "New Zealand",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "new-zealand-f-2",
+    "date": "2026-01-28",
+    "competitionType": "friendly",
+    "team": "New Zealand",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "new-zealand-f-3",
+    "date": "2026-02-12",
+    "competitionType": "friendly",
+    "team": "New Zealand",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "new-zealand-f-4",
+    "date": "2026-02-27",
+    "competitionType": "friendly",
+    "team": "New Zealand",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "new-zealand-f-5",
+    "date": "2026-03-14",
+    "competitionType": "friendly",
+    "team": "New Zealand",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "france-q-1",
+    "date": "2025-07-16",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "England"
+  },
+  {
+    "matchId": "france-q-2",
+    "date": "2025-08-06",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "france-q-3",
+    "date": "2025-08-27",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "france-q-4",
+    "date": "2025-09-17",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "france-q-5",
+    "date": "2025-10-08",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "france-q-6",
+    "date": "2025-10-29",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "france-q-7",
+    "date": "2025-11-19",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "france-q-8",
+    "date": "2025-12-10",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "france-q-9",
+    "date": "2025-12-31",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "france-q-10",
+    "date": "2026-01-21",
+    "competitionType": "qualifier",
+    "team": "France",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "france-f-1",
+    "date": "2026-01-22",
+    "competitionType": "friendly",
+    "team": "France",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "france-f-2",
+    "date": "2026-02-06",
+    "competitionType": "friendly",
+    "team": "France",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "france-f-3",
+    "date": "2026-02-21",
+    "competitionType": "friendly",
+    "team": "France",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "france-f-4",
+    "date": "2026-03-08",
+    "competitionType": "friendly",
+    "team": "France",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "france-f-5",
+    "date": "2026-03-23",
+    "competitionType": "friendly",
+    "team": "France",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "england-q-1",
+    "date": "2025-07-30",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Spain"
+  },
+  {
+    "matchId": "england-q-2",
+    "date": "2025-08-20",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "england-q-3",
+    "date": "2025-09-10",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "england-q-4",
+    "date": "2025-10-01",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "england-q-5",
+    "date": "2025-10-22",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "england-q-6",
+    "date": "2025-11-12",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "england-q-7",
+    "date": "2025-12-03",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "england-q-8",
+    "date": "2025-12-24",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "england-q-9",
+    "date": "2026-01-14",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "england-q-10",
+    "date": "2026-02-04",
+    "competitionType": "qualifier",
+    "team": "England",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "england-f-1",
+    "date": "2026-01-31",
+    "competitionType": "friendly",
+    "team": "England",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "england-f-2",
+    "date": "2026-02-15",
+    "competitionType": "friendly",
+    "team": "England",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "england-f-3",
+    "date": "2026-03-02",
+    "competitionType": "friendly",
+    "team": "England",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "england-f-4",
+    "date": "2026-03-17",
+    "competitionType": "friendly",
+    "team": "England",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "england-f-5",
+    "date": "2026-04-01",
+    "competitionType": "friendly",
+    "team": "England",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "spain-q-1",
+    "date": "2025-08-13",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Portugal"
+  },
+  {
+    "matchId": "spain-q-2",
+    "date": "2025-09-03",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "spain-q-3",
+    "date": "2025-09-24",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "spain-q-4",
+    "date": "2025-10-15",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "spain-q-5",
+    "date": "2025-11-05",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "spain-q-6",
+    "date": "2025-11-26",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "spain-q-7",
+    "date": "2025-12-17",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "spain-q-8",
+    "date": "2026-01-07",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "spain-q-9",
+    "date": "2026-01-28",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "spain-q-10",
+    "date": "2026-02-18",
+    "competitionType": "qualifier",
+    "team": "Spain",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "spain-f-1",
+    "date": "2026-02-09",
+    "competitionType": "friendly",
+    "team": "Spain",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "spain-f-2",
+    "date": "2026-02-24",
+    "competitionType": "friendly",
+    "team": "Spain",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "spain-f-3",
+    "date": "2026-03-11",
+    "competitionType": "friendly",
+    "team": "Spain",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "spain-f-4",
+    "date": "2026-03-26",
+    "competitionType": "friendly",
+    "team": "Spain",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "spain-f-5",
+    "date": "2026-04-10",
+    "competitionType": "friendly",
+    "team": "Spain",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "portugal-q-1",
+    "date": "2025-08-27",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Germany"
+  },
+  {
+    "matchId": "portugal-q-2",
+    "date": "2025-09-17",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "portugal-q-3",
+    "date": "2025-10-08",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "portugal-q-4",
+    "date": "2025-10-29",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "portugal-q-5",
+    "date": "2025-11-19",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "portugal-q-6",
+    "date": "2025-12-10",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "portugal-q-7",
+    "date": "2025-12-31",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "portugal-q-8",
+    "date": "2026-01-21",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "portugal-q-9",
+    "date": "2026-02-11",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "portugal-q-10",
+    "date": "2026-03-04",
+    "competitionType": "qualifier",
+    "team": "Portugal",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "portugal-f-1",
+    "date": "2026-02-18",
+    "competitionType": "friendly",
+    "team": "Portugal",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "portugal-f-2",
+    "date": "2026-03-05",
+    "competitionType": "friendly",
+    "team": "Portugal",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "portugal-f-3",
+    "date": "2026-03-20",
+    "competitionType": "friendly",
+    "team": "Portugal",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "portugal-f-4",
+    "date": "2026-04-04",
+    "competitionType": "friendly",
+    "team": "Portugal",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "portugal-f-5",
+    "date": "2026-04-19",
+    "competitionType": "friendly",
+    "team": "Portugal",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "germany-q-1",
+    "date": "2025-09-10",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Italy"
+  },
+  {
+    "matchId": "germany-q-2",
+    "date": "2025-10-01",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "germany-q-3",
+    "date": "2025-10-22",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "germany-q-4",
+    "date": "2025-11-12",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "germany-q-5",
+    "date": "2025-12-03",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "germany-q-6",
+    "date": "2025-12-24",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "germany-q-7",
+    "date": "2026-01-14",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "germany-q-8",
+    "date": "2026-02-04",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "germany-q-9",
+    "date": "2026-02-25",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "germany-q-10",
+    "date": "2026-03-18",
+    "competitionType": "qualifier",
+    "team": "Germany",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "germany-f-1",
+    "date": "2026-02-27",
+    "competitionType": "friendly",
+    "team": "Germany",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "germany-f-2",
+    "date": "2026-03-14",
+    "competitionType": "friendly",
+    "team": "Germany",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "germany-f-3",
+    "date": "2026-03-29",
+    "competitionType": "friendly",
+    "team": "Germany",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "germany-f-4",
+    "date": "2026-04-13",
+    "competitionType": "friendly",
+    "team": "Germany",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "germany-f-5",
+    "date": "2026-04-28",
+    "competitionType": "friendly",
+    "team": "Germany",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "italy-q-1",
+    "date": "2025-09-24",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Morocco"
+  },
+  {
+    "matchId": "italy-q-2",
+    "date": "2025-10-15",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "italy-q-3",
+    "date": "2025-11-05",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "italy-q-4",
+    "date": "2025-11-26",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "italy-q-5",
+    "date": "2025-12-17",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "italy-q-6",
+    "date": "2026-01-07",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "italy-q-7",
+    "date": "2026-01-28",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "italy-q-8",
+    "date": "2026-02-18",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "italy-q-9",
+    "date": "2026-03-11",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "italy-q-10",
+    "date": "2026-04-01",
+    "competitionType": "qualifier",
+    "team": "Italy",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "italy-f-1",
+    "date": "2026-03-08",
+    "competitionType": "friendly",
+    "team": "Italy",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "italy-f-2",
+    "date": "2026-03-23",
+    "competitionType": "friendly",
+    "team": "Italy",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "italy-f-3",
+    "date": "2026-04-07",
+    "competitionType": "friendly",
+    "team": "Italy",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "italy-f-4",
+    "date": "2026-04-22",
+    "competitionType": "friendly",
+    "team": "Italy",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "italy-f-5",
+    "date": "2026-05-07",
+    "competitionType": "friendly",
+    "team": "Italy",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "morocco-q-1",
+    "date": "2025-10-08",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Senegal"
+  },
+  {
+    "matchId": "morocco-q-2",
+    "date": "2025-10-29",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "morocco-q-3",
+    "date": "2025-11-19",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "morocco-q-4",
+    "date": "2025-12-10",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "morocco-q-5",
+    "date": "2025-12-31",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "morocco-q-6",
+    "date": "2026-01-21",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "morocco-q-7",
+    "date": "2026-02-11",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "morocco-q-8",
+    "date": "2026-03-04",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "morocco-q-9",
+    "date": "2026-03-25",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "morocco-q-10",
+    "date": "2026-04-15",
+    "competitionType": "qualifier",
+    "team": "Morocco",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "morocco-f-1",
+    "date": "2026-03-17",
+    "competitionType": "friendly",
+    "team": "Morocco",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "morocco-f-2",
+    "date": "2026-04-01",
+    "competitionType": "friendly",
+    "team": "Morocco",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "morocco-f-3",
+    "date": "2026-04-16",
+    "competitionType": "friendly",
+    "team": "Morocco",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "morocco-f-4",
+    "date": "2026-05-01",
+    "competitionType": "friendly",
+    "team": "Morocco",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "morocco-f-5",
+    "date": "2026-05-16",
+    "competitionType": "friendly",
+    "team": "Morocco",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "senegal-q-1",
+    "date": "2025-10-22",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Egypt"
+  },
+  {
+    "matchId": "senegal-q-2",
+    "date": "2025-11-12",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "senegal-q-3",
+    "date": "2025-12-03",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "senegal-q-4",
+    "date": "2025-12-24",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "senegal-q-5",
+    "date": "2026-01-14",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "senegal-q-6",
+    "date": "2026-02-04",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "senegal-q-7",
+    "date": "2026-02-25",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "senegal-q-8",
+    "date": "2026-03-18",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "senegal-q-9",
+    "date": "2026-04-08",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "senegal-q-10",
+    "date": "2026-04-29",
+    "competitionType": "qualifier",
+    "team": "Senegal",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "senegal-f-1",
+    "date": "2026-03-26",
+    "competitionType": "friendly",
+    "team": "Senegal",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "senegal-f-2",
+    "date": "2026-04-10",
+    "competitionType": "friendly",
+    "team": "Senegal",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "senegal-f-3",
+    "date": "2026-04-25",
+    "competitionType": "friendly",
+    "team": "Senegal",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "senegal-f-4",
+    "date": "2026-05-10",
+    "competitionType": "friendly",
+    "team": "Senegal",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "senegal-f-5",
+    "date": "2026-05-25",
+    "competitionType": "friendly",
+    "team": "Senegal",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "egypt-q-1",
+    "date": "2025-11-05",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Nigeria"
+  },
+  {
+    "matchId": "egypt-q-2",
+    "date": "2025-11-26",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "egypt-q-3",
+    "date": "2025-12-17",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "egypt-q-4",
+    "date": "2026-01-07",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "egypt-q-5",
+    "date": "2026-01-28",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "egypt-q-6",
+    "date": "2026-02-18",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "egypt-q-7",
+    "date": "2026-03-11",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "egypt-q-8",
+    "date": "2026-04-01",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "egypt-q-9",
+    "date": "2026-04-22",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "egypt-q-10",
+    "date": "2026-05-13",
+    "competitionType": "qualifier",
+    "team": "Egypt",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "egypt-f-1",
+    "date": "2026-04-04",
+    "competitionType": "friendly",
+    "team": "Egypt",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "egypt-f-2",
+    "date": "2026-04-19",
+    "competitionType": "friendly",
+    "team": "Egypt",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "egypt-f-3",
+    "date": "2026-05-04",
+    "competitionType": "friendly",
+    "team": "Egypt",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "egypt-f-4",
+    "date": "2026-05-19",
+    "competitionType": "friendly",
+    "team": "Egypt",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "egypt-f-5",
+    "date": "2026-06-03",
+    "competitionType": "friendly",
+    "team": "Egypt",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "nigeria-q-1",
+    "date": "2025-11-19",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Argentina"
+  },
+  {
+    "matchId": "nigeria-q-2",
+    "date": "2025-12-10",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Brazil"
+  },
+  {
+    "matchId": "nigeria-q-3",
+    "date": "2025-12-31",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Ecuador"
+  },
+  {
+    "matchId": "nigeria-q-4",
+    "date": "2026-01-21",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Uruguay"
+  },
+  {
+    "matchId": "nigeria-q-5",
+    "date": "2026-02-11",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Canada"
+  },
+  {
+    "matchId": "nigeria-q-6",
+    "date": "2026-03-04",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Mexico"
+  },
+  {
+    "matchId": "nigeria-q-7",
+    "date": "2026-03-25",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "United States"
+  },
+  {
+    "matchId": "nigeria-q-8",
+    "date": "2026-04-15",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Japan"
+  },
+  {
+    "matchId": "nigeria-q-9",
+    "date": "2026-05-06",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "South Korea"
+  },
+  {
+    "matchId": "nigeria-q-10",
+    "date": "2026-05-27",
+    "competitionType": "qualifier",
+    "team": "Nigeria",
+    "opponent": "Iran"
+  },
+  {
+    "matchId": "nigeria-f-1",
+    "date": "2026-04-13",
+    "competitionType": "friendly",
+    "team": "Nigeria",
+    "opponent": "Australia"
+  },
+  {
+    "matchId": "nigeria-f-2",
+    "date": "2026-04-28",
+    "competitionType": "friendly",
+    "team": "Nigeria",
+    "opponent": "Uzbekistan"
+  },
+  {
+    "matchId": "nigeria-f-3",
+    "date": "2026-05-13",
+    "competitionType": "friendly",
+    "team": "Nigeria",
+    "opponent": "Jordan"
+  },
+  {
+    "matchId": "nigeria-f-4",
+    "date": "2026-05-28",
+    "competitionType": "friendly",
+    "team": "Nigeria",
+    "opponent": "New Zealand"
+  },
+  {
+    "matchId": "nigeria-f-5",
+    "date": "2026-06-12",
+    "competitionType": "friendly",
+    "team": "Nigeria",
+    "opponent": "France"
+  }
+]

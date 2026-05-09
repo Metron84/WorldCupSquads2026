@@ -27,6 +27,12 @@ export default function Home() {
           >
             Browse qualified teams
           </Link>
+          <Link
+            href="/coverage"
+            className="rounded-md bg-white/10 px-3 py-2 text-sm hover:bg-white/20"
+          >
+            Coverage dashboard
+          </Link>
         </div>
       </header>
 
@@ -55,6 +61,8 @@ export default function Home() {
               confederation={team.confederation}
               qualifiedVia={team.qualifiedVia}
               likelyCount={team.likely26.length}
+              confidenceLevel={team.evidence.confidenceLevel}
+              playersObserved={team.evidence.playersObserved}
               href={`/teams/${slugifyTeam(team.team)}`}
             />
           ))}

@@ -1,0 +1,338 @@
+[
+  {
+    "team": "Argentina",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-01-01 -> 2025-11-17",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Brazil",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-01-15 -> 2025-11-26",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Ecuador",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-01-29 -> 2025-12-05",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Uruguay",
+    "confederation": "CONMEBOL",
+    "qualifiedVia": "CONMEBOL qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-02-12 -> 2025-12-14",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Canada",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-02-26 -> 2025-12-23",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Mexico",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-03-12 -> 2026-01-01",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "United States",
+    "confederation": "Host",
+    "qualifiedVia": "Host nation",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-03-26 -> 2026-01-10",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Japan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-04-09 -> 2026-01-19",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "South Korea",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-04-23 -> 2026-01-28",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Iran",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-05-07 -> 2026-02-06",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Australia",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-05-21 -> 2026-02-15",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Uzbekistan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-06-04 -> 2026-02-24",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Jordan",
+    "confederation": "AFC",
+    "qualifiedVia": "AFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-06-18 -> 2026-03-05",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "New Zealand",
+    "confederation": "OFC",
+    "qualifiedVia": "OFC qualification",
+    "qualificationStatus": "qualified",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-07-02 -> 2026-03-14",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "France",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-07-16 -> 2026-03-23",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "England",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-07-30 -> 2026-04-01",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Spain",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-08-13 -> 2026-04-10",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Portugal",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-08-27 -> 2026-04-19",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Germany",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-09-10 -> 2026-04-28",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Italy",
+    "confederation": "UEFA",
+    "qualifiedVia": "UEFA qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-09-24 -> 2026-05-07",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Morocco",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-10-08 -> 2026-05-16",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Senegal",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-10-22 -> 2026-05-25",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Egypt",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-11-05 -> 2026-06-03",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  },
+  {
+    "team": "Nigeria",
+    "confederation": "CAF",
+    "qualifiedVia": "CAF qualification",
+    "qualificationStatus": "tracked",
+    "playersObserved": 28,
+    "qualifierMatchesUsed": 10,
+    "friendlyMatchesUsed": 5,
+    "dateRangeUsed": "2025-11-19 -> 2026-06-12",
+    "confidenceLevel": "low",
+    "coverageWarnings": [
+      "Small observed player universe (<35)."
+    ]
+  }
+]

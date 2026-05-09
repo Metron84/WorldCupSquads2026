@@ -1,5 +1,5 @@
-import { TeamCard } from "@/components/TeamCard";
-import { getProjections, slugifyTeam } from "@/lib/data";
+import { TeamsBrowser } from "@/components/TeamsBrowser";
+import { getProjections } from "@/lib/data";
 
 export default function TeamsPage() {
   const teams = getProjections().sort((a, b) => a.team.localeCompare(b.team));
@@ -11,18 +11,7 @@ export default function TeamsPage() {
         Projected pool built from qualification and recent friendlies selection data.
       </p>
 
-      <div className="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
-        {teams.map((team) => (
-          <TeamCard
-            key={team.team}
-            team={team.team}
-            confederation={team.confederation}
-            qualifiedVia={team.qualifiedVia}
-            likelyCount={team.likely26.length}
-            href={`/teams/${slugifyTeam(team.team)}`}
-          />
-        ))}
-      </div>
+      <TeamsBrowser teams={teams} />
     </main>
   );
 }

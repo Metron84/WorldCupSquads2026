@@ -31,6 +31,19 @@ export default async function TeamPage({ params }: Props) {
         <p className="mt-2 text-xs text-slate-500">
           Last model update: {team.updatedAt}. This is a projected pool, not an official squad.
         </p>
+        <div className="mt-3 grid gap-2 text-xs text-slate-600 sm:grid-cols-3">
+          <p>Players observed: {team.evidence.playersObserved}</p>
+          <p>
+            Matches used: {team.evidence.qualifierMatchesUsed} qualifiers +{" "}
+            {team.evidence.friendlyMatchesUsed} friendlies
+          </p>
+          <p>Confidence: {team.evidence.confidenceLevel}</p>
+        </div>
+        {team.evidence.coverageWarnings.length > 0 ? (
+          <p className="mt-2 text-xs text-amber-700">
+            Coverage warnings: {team.evidence.coverageWarnings.join(" | ")}
+          </p>
+        ) : null}
       </header>
 
       <div className="mt-6 grid gap-4">

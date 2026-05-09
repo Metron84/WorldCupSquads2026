@@ -13,6 +13,8 @@ export default function MethodologyPage() {
         <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-slate-700">
           <li>Qualification call-ups and appearances</li>
           <li>Recent friendly call-ups and appearances</li>
+          <li>Match metadata windows and date ranges per nation</li>
+          <li>Availability overrides (injury, suspension, doubtful status)</li>
           <li>Player minutes and starting frequency</li>
           <li>Recency weighting based on last call-up date</li>
         </ul>
@@ -32,6 +34,15 @@ export default function MethodologyPage() {
         <p className="mt-2 text-sm text-slate-700">
           The model builds a likely 26 with positional targets (3 GKs, 9 defenders, 8 midfielders,
           6 forwards), then ranks remaining tracked players into bubble and longshot tiers.
+        </p>
+      </section>
+
+      <section className="mt-4 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+        <h2 className="text-lg font-semibold text-slate-900">Coverage confidence</h2>
+        <p className="mt-2 text-sm text-slate-700">
+          Each nation gets a confidence level (high / medium / low) based on observed player count,
+          qualifier sample size, and friendly sample size. Coverage warnings surface where pools are
+          too small for robust projection.
         </p>
       </section>
     </main>

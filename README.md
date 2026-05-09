@@ -1,18 +1,15 @@
-# World Cup Squads
+# World Cup Squads 2026 (PWA)
 
-Projected World Cup 2026 squad pools for currently qualified teams.  
-This app uses qualification and recent friendly selection trends to estimate a modelled pool:
-`likely`, `bubble`, and `longshot`.
+Projected World Cup 2026 squad pools by nation, with confidence scoring and coverage warnings.  
+Outputs are **non-official** and intended for analytical projection only.
 
-> These are **not official federation squads**.
+## Tech Stack
 
-## Stack
-
-- Next.js App Router + TypeScript
+- Next.js App Router (TypeScript strict)
 - Tailwind CSS
-- PWA (manifest + service worker)
+- PWA support (`manifest.webmanifest` + `sw.js`)
 
-## Run locally
+## Local setup
 
 ```bash
 cd "/Users/wajeddoumani/Desktop/World Cup Squads"
@@ -23,44 +20,93 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Data pipeline
+## Data model
 
-Raw inputs:
+### Raw inputs (`data/raw`)
 
-- `data/raw/qualifiedTeams.json`
-- `data/raw/callups.json`
+- `teams.json` - represented/qualified team metadata
+- `matches.json` - qualifier/friendly match windows
+- `callups_or_appearances.json` - per-match player selection rows
+- `availability-overrides.json` - manual injury/suspension/doubtful layer
 
-Rebuild projections:
+### Generated outputs (`data/generated`)
+
+- `player_pool.json` - aggregated player features by team
+- `completeness_report.json` - confidence and coverage warnings
+- `projections.json` - likely26/bubble/longshot projections
+
+## Pipeline stages
+
+```bash
+npm run data:seed
+npm run data:load
+npm run data:normalize
+npm run data:aggregate
+npm run data:coverage
+npm run data:project
+```
+
+Or run everything:
 
 ```bash
 npm run data:build
 ```
 
-Generated output:
+## Scoring logic
 
-- `data/generated/projections.json`
+Selection score combines:
 
-## Scripts
+- selection frequency weight
+- minutes weight
+- recency decay
+- starts consistency
+- qualifier weighting over friendlies
+- availability multiplier override
 
-- `npm run dev` - development server
-- `npm run build` - production build
-- `npm run start` - start production build
-- `npm run lint` - lint checks
-- `npm run data:build` - regenerate projections
+Likely squad uses positional balancing targets:
 
-## PWA
+- GK: 3
+- DF: 9
+- MF: 8
+- FW: 6
 
-- Manifest: `public/manifest.webmanifest`
-- Service worker: `public/sw.js`
+Then remaining players are tiered to `bubble` and `longshot`.
 
-The site is installable on supported browsers.
+## Confidence framework
 
-## Deploy to Vercel
+Each team receives a confidence level:
+
+- **high**: strong match/sample coverage
+- **medium**: adequate but partial
+- **low**: sparse coverage; use caution
+
+Warnings are surfaced per team in `/coverage`.
+
+## Injury & availability overrides
+
+Use `data/raw/availability-overrides.json` with statuses:
+
+- `available`
+- `doubtful`
+- `injured`
+- `suspended`
+- `unavailable`
+
+The override layer affects score and likely26 eligibility.
+
+## Quality checks
+
+```bash
+npm run lint
+npm run build
+```
+
+## Deploy on Vercel
 
 ### GitHub flow
 
-1. Push repository to GitHub.
-2. Import it in Vercel.
+1. Push `main` to GitHub.
+2. Import repository into Vercel.
 3. Deploy with Next.js preset.
 
 ### CLI flow
@@ -71,9 +117,8 @@ vercel
 vercel --prod
 ```
 
-## Updating the model
+## Limitations
 
-1. Add/update rows in `data/raw/callups.json`.
-2. Update `data/raw/qualifiedTeams.json` when qualification status changes.
-3. Run `npm run data:build`.
-4. Redeploy.
+- This is a projection system, not official federation publication.
+- Output quality depends on input coverage and recency.
+- Teams marked low confidence need expanded raw match windows.
