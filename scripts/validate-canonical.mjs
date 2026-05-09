@@ -38,6 +38,7 @@ async function main() {
   const allowedCallupStatus = new Set(["starter", "substitute", "bench", "withdrawn"]);
   const allowedAvailability = new Set(["available", "doubtful", "injured", "suspended", "unavailable"]);
   const allowedCompType = new Set(["qualifier", "friendly"]);
+  const allowedSquadPos = new Set(["GK", "DF", "MF", "FW"]);
 
   for (const p of players) {
     if (!teamIds.has(p.team_id)) fail(`players_master.team_id missing in teams: ${p.player_id}`);
@@ -60,6 +61,9 @@ async function main() {
     if (!allowedCallupStatus.has(c.status)) fail(`invalid callups.status: ${c.record_id}`);
     if (c.source_id != null && c.source_id !== "" && !allowedSourceIds.has(c.source_id)) {
       fail(`callups.source_id not in data/sources/sources.json: ${c.record_id} -> ${c.source_id}`);
+    }
+    if (c.squad_position_group != null && c.squad_position_group !== "" && !allowedSquadPos.has(c.squad_position_group)) {
+      fail(`invalid callups.squad_position_group: ${c.record_id}`);
     }
   }
   for (const o of overrides) {

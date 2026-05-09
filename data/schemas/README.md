@@ -10,7 +10,7 @@ Base schema source:
 Project extensions:
 - `qualification_status` in `teams`
 - `competition_type`, `source_tier`, and optional `source_id` in `matches`
-- `projected_squad_date` and optional `source_id` in `callups_or_appearances`
+- `projected_squad_date`, optional `source_id`, and optional `squad_position_group` (`GK`|`DF`|`MF`|`FW`) in `callups_or_appearances`
 - `status` in `availability_overrides`
 
 Source allowlist:

@@ -11,6 +11,13 @@ export default function MethodologyPage() {
       <section className="mt-6 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Inputs</h2>
         <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-slate-700">
+          <li>
+            WorldCupWiki-style editorial squad snapshot for the March 2026 window (see PDF under{" "}
+            <code className="rounded bg-slate-100 px-1">data/raw/</code>), ingested with{" "}
+            <code className="rounded bg-slate-100 px-1">source_id: worldcupwiki_squad_hub</code>. This
+            is not a FIFA lodged list.
+          </li>
+          <li>Synthetic March 2026 “international window” friendly match rows for pipeline alignment</li>
           <li>Qualification call-ups and appearances</li>
           <li>Recent friendly call-ups and appearances</li>
           <li>Match metadata windows and date ranges per nation</li>

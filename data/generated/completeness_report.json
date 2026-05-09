@@ -2,100 +2,115 @@
   {
     "team": "Mexico",
     "confederation": "CONCACAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-11 -> 2026-06-19",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.97,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "South Africa",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 1,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-11 -> 2026-06-11",
+    "playersObserved": 29,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Canada",
     "confederation": "CONCACAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-12 -> 2026-06-19",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.97,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Switzerland",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-12 -> 2026-06-20",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Qatar",
     "confederation": "AFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-12 -> 2026-06-19",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Bosnia and Herzegovina",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-12 -> 2026-06-20",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
     "sourcesAuthorityMultiplier": 1,
@@ -110,10 +125,10 @@
   {
     "team": "Sweden",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-13 -> 2026-06-20",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
     "sourcesAuthorityMultiplier": 1,
@@ -128,154 +143,178 @@
   {
     "team": "Netherlands",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-13 -> 2026-06-21",
+    "playersObserved": 22,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Japan",
     "confederation": "AFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-13 -> 2026-06-20",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Tunisia",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-13 -> 2026-06-21",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "United States",
     "confederation": "CONCACAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 3,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-14 -> 2026-06-21",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.97,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Curacao",
     "confederation": "CONCACAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-14 -> 2026-06-22",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.97,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Haiti",
     "confederation": "CONCACAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-14 -> 2026-06-21",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.97,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Uzbekistan",
     "confederation": "AFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-14 -> 2026-06-22",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Jordan",
     "confederation": "AFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-15 -> 2026-06-22",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Iraq",
     "confederation": "AFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-15 -> 2026-06-23",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
     "sourcesAuthorityMultiplier": 1,
@@ -290,208 +329,240 @@
   {
     "team": "Argentina",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-15 -> 2026-06-22",
+    "playersObserved": 21,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Brazil",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-15 -> 2026-06-23",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Uruguay",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-16 -> 2026-06-23",
+    "playersObserved": 27,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Colombia",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-16 -> 2026-06-24",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Ecuador",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-16 -> 2026-06-23",
+    "playersObserved": 27,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Paraguay",
     "confederation": "CONMEBOL",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-16 -> 2026-06-24",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "New Zealand",
     "confederation": "OFC",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-17 -> 2026-06-24",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.9,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.9,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.738,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Morocco",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-17 -> 2026-06-25",
+    "playersObserved": 31,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
-      "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Senegal",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-17 -> 2026-06-24",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Egypt",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-17 -> 2026-06-25",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "Cape Verde",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
-    "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-18 -> 2026-06-25",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
-    "sourcesAuthorityMultiplier": 1,
-    "sourceIdsObserved": [],
-    "sourcePenaltyMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
     "coverageWarnings": [
       "Small observed player universe (<30).",
       "Low qualifier sample (<8).",
-      "Low friendly sample (<2)."
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
     ]
   },
   {
     "team": "DR Congo",
     "confederation": "CAF",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-18 -> 2026-06-26",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 0.95,
     "sourcesAuthorityMultiplier": 1,
@@ -506,10 +577,157 @@
   {
     "team": "Spain",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "France",
+    "confederation": "UEFA",
+    "playersObserved": 22,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Algeria",
+    "confederation": "CAF",
+    "playersObserved": 23,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Australia",
+    "confederation": "AFC",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Austria",
+    "confederation": "UEFA",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Belgium",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Croatia",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Czechia",
+    "confederation": "UEFA",
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-18 -> 2026-06-25",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
     "sourcesAuthorityMultiplier": 1,
@@ -522,12 +740,243 @@
     ]
   },
   {
-    "team": "France",
+    "team": "Germany",
     "confederation": "UEFA",
-    "playersObserved": 1,
-    "qualifierMatchesUsed": 2,
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Ghana",
+    "confederation": "CAF",
+    "playersObserved": 21,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "England",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Iran",
+    "confederation": "AFC",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Ivory Coast",
+    "confederation": "CAF",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Norway",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Panama",
+    "confederation": "CONCACAF",
+    "playersObserved": 25,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.97,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7953999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Portugal",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Saudi Arabia",
+    "confederation": "AFC",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Scotland",
+    "confederation": "UEFA",
+    "playersObserved": 24,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 1,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.82,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "South Korea",
+    "confederation": "AFC",
+    "playersObserved": 26,
+    "qualifierMatchesUsed": 0,
+    "friendlyMatchesUsed": 1,
+    "dateRangeUsed": "2026-03-25 -> 2026-03-25",
+    "confidenceLevel": "low",
+    "confederationMultiplier": 0.95,
+    "sourcesAuthorityMultiplier": 0.82,
+    "sourceIdsObserved": [
+      "worldcupwiki_squad_hub"
+    ],
+    "sourcePenaltyMultiplier": 0.7789999999999999,
+    "coverageWarnings": [
+      "Small observed player universe (<30).",
+      "Low qualifier sample (<8).",
+      "Low friendly sample (<2).",
+      "Observed sources are Tier C only — add federation/match-report lineage when available."
+    ]
+  },
+  {
+    "team": "Turkey",
+    "confederation": "UEFA",
+    "playersObserved": 0,
+    "qualifierMatchesUsed": 0,
     "friendlyMatchesUsed": 0,
-    "dateRangeUsed": "2026-06-18 -> 2026-06-26",
+    "dateRangeUsed": "n/a",
     "confidenceLevel": "low",
     "confederationMultiplier": 1,
     "sourcesAuthorityMultiplier": 1,

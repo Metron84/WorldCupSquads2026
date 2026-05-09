@@ -79,6 +79,11 @@
         "source_id": {
           "type": "string",
           "description": "Optional override of matches.source_id for this call-up row; must exist in data/sources/sources.json when set."
+        },
+        "squad_position_group": {
+          "type": "string",
+          "enum": ["GK", "DF", "MF", "FW"],
+          "description": "Registration line role from ingestion (friendly window synthetic match)."
         }
       },
       "required": ["record_id", "player_id", "match_id", "team_id", "status"]

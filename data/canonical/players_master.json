@@ -1,212 +1,7233 @@
 [
   {
-    "player_id": "p01",
-    "canonical_name": "Lionel Andrés Messi",
-    "dob": "1987-06-24",
-    "nationality_iso3": "ARG",
-    "team_id": "t17"
-  },
-  {
-    "player_id": "p02",
-    "canonical_name": "Edson Álvarez",
-    "dob": "1997-10-24",
+    "player_id": "p0001",
+    "canonical_name": "Alexis Gutierrez",
+    "dob": "1900-01-01",
     "nationality_iso3": "MEX",
     "team_id": "t01"
   },
   {
-    "player_id": "p03",
-    "canonical_name": "Lyle Foster",
-    "dob": "2000-09-03",
-    "nationality_iso3": "ZAF",
+    "player_id": "p0002",
+    "canonical_name": "Armando Gonzalez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0003",
+    "canonical_name": "Carlos Acevedo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0004",
+    "canonical_name": "Cesar Montes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0005",
+    "canonical_name": "Diego Lainez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0006",
+    "canonical_name": "Edson Alvarez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0007",
+    "canonical_name": "Erick Sanchez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0008",
+    "canonical_name": "Erik Lira",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0009",
+    "canonical_name": "Fidel Ambriz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0010",
+    "canonical_name": "German Berterame",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0011",
+    "canonical_name": "Gilberto Mora",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0012",
+    "canonical_name": "Guillermo Ochoa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0013",
+    "canonical_name": "Hirving Lozano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0014",
+    "canonical_name": "Israel Reyes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0015",
+    "canonical_name": "Jesus Gallardo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0016",
+    "canonical_name": "Johan Vasquez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0017",
+    "canonical_name": "Jorge Ruvalcaba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0018",
+    "canonical_name": "Kevin Alvarez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0019",
+    "canonical_name": "Mateo Chavez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0020",
+    "canonical_name": "Obed Vargas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0021",
+    "canonical_name": "Orbelin Pineda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0022",
+    "canonical_name": "Raul Jimenez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0023",
+    "canonical_name": "Raul Rangel",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0024",
+    "canonical_name": "Roberto Alvarado",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MEX",
+    "team_id": "t01"
+  },
+  {
+    "player_id": "p0025",
+    "canonical_name": "Aubrey Modiba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
     "team_id": "t02"
   },
   {
-    "player_id": "p04",
-    "canonical_name": "Alphonso Davies",
-    "dob": "2000-11-02",
+    "player_id": "p0026",
+    "canonical_name": "Bathusi Aubaas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0027",
+    "canonical_name": "Bongokuhle Hlongwane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0028",
+    "canonical_name": "Elias Mokwana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0029",
+    "canonical_name": "Evidence Makgopa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0030",
+    "canonical_name": "Fawaaz Basadien",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0031",
+    "canonical_name": "Ime Okon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0032",
+    "canonical_name": "Iqraam Rayners",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0033",
+    "canonical_name": "Khuliso Mudau",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0034",
+    "canonical_name": "Luke Le Roux",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0035",
+    "canonical_name": "Lyle Foster",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0036",
+    "canonical_name": "Mbekezeli Mbokazi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0037",
+    "canonical_name": "Mduduzi Shabalala",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0038",
+    "canonical_name": "Mohau Nkota",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0039",
+    "canonical_name": "Nkosinathi Sibisi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0040",
+    "canonical_name": "Oswin Appollis",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0041",
+    "canonical_name": "Patrick Maswanganyi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0042",
+    "canonical_name": "Relebohile Mofokeng",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0043",
+    "canonical_name": "Ricardo Goss",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0044",
+    "canonical_name": "Ronwen Williams",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0045",
+    "canonical_name": "Shandre Campbell",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0046",
+    "canonical_name": "Sipho Chaine",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0047",
+    "canonical_name": "Siyabonga Ngezana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0048",
+    "canonical_name": "Sphephelo Sithole",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0049",
+    "canonical_name": "Teboho Mokoena",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0050",
+    "canonical_name": "Thalente Mbatha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0051",
+    "canonical_name": "Thapelo Morena",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0052",
+    "canonical_name": "Themba Zwane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0053",
+    "canonical_name": "Tylon Smith",
+    "dob": "1900-01-01",
+    "nationality_iso3": "RSA",
+    "team_id": "t02"
+  },
+  {
+    "player_id": "p0054",
+    "canonical_name": "Alfie Jones",
+    "dob": "1900-01-01",
     "nationality_iso3": "CAN",
     "team_id": "t03"
   },
   {
-    "player_id": "p05",
-    "canonical_name": "Granit Xhaka",
-    "dob": "1992-09-27",
+    "player_id": "p0055",
+    "canonical_name": "Ali Ahmed",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0056",
+    "canonical_name": "Cyle Larin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0057",
+    "canonical_name": "Dayne St. Clair",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0058",
+    "canonical_name": "Derek Cornelius",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0059",
+    "canonical_name": "Ismael Kone",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0060",
+    "canonical_name": "Jayden Nelson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0061",
+    "canonical_name": "Joel Waterman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0062",
+    "canonical_name": "Jonathan David",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0063",
+    "canonical_name": "Jonathan Osorio",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0064",
+    "canonical_name": "Junior Hoilett",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0065",
+    "canonical_name": "Kamal Miller",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0066",
+    "canonical_name": "Marcelo Flores",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0067",
+    "canonical_name": "Mathieu Choiniere",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0068",
+    "canonical_name": "Maxime Crepeau",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0069",
+    "canonical_name": "Nathan Saliba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0070",
+    "canonical_name": "Niko Sigur",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0071",
+    "canonical_name": "Owen Goodman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0072",
+    "canonical_name": "Promise David",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0073",
+    "canonical_name": "Richie Laryea",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0074",
+    "canonical_name": "Stephen Eustaquio",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0075",
+    "canonical_name": "Tajon Buchanan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0076",
+    "canonical_name": "Tani Oluwaseyi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0077",
+    "canonical_name": "Theo Bair",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0078",
+    "canonical_name": "Zorhan Bassong",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CAN",
+    "team_id": "t03"
+  },
+  {
+    "player_id": "p0079",
+    "canonical_name": "Adrian Bajrami",
+    "dob": "1900-01-01",
     "nationality_iso3": "CHE",
     "team_id": "t04"
   },
   {
-    "player_id": "p06",
-    "canonical_name": "Viktor Gyökeres",
-    "dob": "1998-06-04",
-    "nationality_iso3": "SWE",
-    "team_id": "t07"
+    "player_id": "p0080",
+    "canonical_name": "Andi Zeqiri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p07",
-    "canonical_name": "Virgil van Dijk",
-    "dob": "1991-07-08",
-    "nationality_iso3": "NLD",
-    "team_id": "t08"
+    "player_id": "p0081",
+    "canonical_name": "Aurele Amenda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p08",
-    "canonical_name": "Takefusa Kubo",
-    "dob": "2001-06-04",
-    "nationality_iso3": "JPN",
-    "team_id": "t09"
+    "player_id": "p0082",
+    "canonical_name": "Becir Omeragic",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p09",
-    "canonical_name": "Youssef Msakni",
-    "dob": "1990-10-28",
-    "nationality_iso3": "TUN",
-    "team_id": "t10"
+    "player_id": "p0083",
+    "canonical_name": "Breel Embolo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p10",
-    "canonical_name": "Christian Pulisic",
-    "dob": "1998-09-18",
-    "nationality_iso3": "USA",
-    "team_id": "t11"
+    "player_id": "p0084",
+    "canonical_name": "Cedric Itten",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p11",
-    "canonical_name": "Eloy Room",
-    "dob": "1989-02-06",
-    "nationality_iso3": "CUW",
-    "team_id": "t12"
+    "player_id": "p0085",
+    "canonical_name": "Christian Fassnacht",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p12",
-    "canonical_name": "Eldor Shomurodov",
-    "dob": "1995-06-29",
-    "nationality_iso3": "UZB",
-    "team_id": "t14"
+    "player_id": "p0086",
+    "canonical_name": "Dan Ndoye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p13",
-    "canonical_name": "Musa Al-Taamari",
-    "dob": "1997-06-10",
-    "nationality_iso3": "JOR",
-    "team_id": "t15"
+    "player_id": "p0087",
+    "canonical_name": "Djibril Sow",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p14",
-    "canonical_name": "Aymen Hussein",
-    "dob": "1996-03-22",
-    "nationality_iso3": "IRQ",
-    "team_id": "t16"
+    "player_id": "p0088",
+    "canonical_name": "Fabian Rieder",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p15",
-    "canonical_name": "Mohamed Salah Ghaly",
-    "dob": "1992-06-15",
-    "nationality_iso3": "EGY",
-    "team_id": "t26"
+    "player_id": "p0089",
+    "canonical_name": "Granit Xhaka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p16",
-    "canonical_name": "Vinícius Júnior",
-    "dob": "2000-07-12",
-    "nationality_iso3": "BRA",
-    "team_id": "t18"
+    "player_id": "p0090",
+    "canonical_name": "Gregor Kobel",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p17",
-    "canonical_name": "Kylian Mbappé",
-    "dob": "1998-12-20",
-    "nationality_iso3": "FRA",
-    "team_id": "t30"
+    "player_id": "p0091",
+    "canonical_name": "Isaac Schmidt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p18",
-    "canonical_name": "Luis Alberto Suárez",
-    "dob": "1987-01-24",
-    "nationality_iso3": "URY",
-    "team_id": "t19"
+    "player_id": "p0092",
+    "canonical_name": "Johan Manzambi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p19",
-    "canonical_name": "Luis Javier Suárez",
-    "dob": "1997-12-02",
-    "nationality_iso3": "COL",
-    "team_id": "t20"
+    "player_id": "p0093",
+    "canonical_name": "Luca Jaquez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
   },
   {
-    "player_id": "p20",
-    "canonical_name": "Akram Afif",
-    "dob": "1996-11-18",
+    "player_id": "p0094",
+    "canonical_name": "Manuel Akanji",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0095",
+    "canonical_name": "Marvin Keller",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0096",
+    "canonical_name": "Michel Aebischer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0097",
+    "canonical_name": "Miro Muheim",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0098",
+    "canonical_name": "Nico Elvedi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0099",
+    "canonical_name": "Ricardo Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0100",
+    "canonical_name": "Ruben Vargas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0101",
+    "canonical_name": "Silvan Widmer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0102",
+    "canonical_name": "Simon Sohm",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0103",
+    "canonical_name": "Vincent Sierro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0104",
+    "canonical_name": "Yvon Mvogo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CHE",
+    "team_id": "t04"
+  },
+  {
+    "player_id": "p0105",
+    "canonical_name": "Abdulaziz Hatem",
+    "dob": "1900-01-01",
     "nationality_iso3": "QAT",
     "team_id": "t05"
   },
   {
-    "player_id": "p21",
-    "canonical_name": "Edin Džeko",
-    "dob": "1986-03-17",
-    "nationality_iso3": "BIH",
-    "team_id": "t06"
+    "player_id": "p0106",
+    "canonical_name": "Ahmed Alaaeldin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p22",
-    "canonical_name": "Chris Wood",
-    "dob": "1991-12-07",
-    "nationality_iso3": "NZL",
-    "team_id": "t23"
+    "player_id": "p0107",
+    "canonical_name": "Ahmed Fathy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p23",
-    "canonical_name": "Achraf Hakimi",
-    "dob": "1998-11-04",
-    "nationality_iso3": "MAR",
-    "team_id": "t24"
+    "player_id": "p0108",
+    "canonical_name": "Akram Afif",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p24",
-    "canonical_name": "Sadio Mané",
-    "dob": "1992-04-10",
-    "nationality_iso3": "SEN",
-    "team_id": "t25"
+    "player_id": "p0109",
+    "canonical_name": "Al-Hashmi Al-Hussain",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p25",
-    "canonical_name": "Chancel Mbemba",
-    "dob": "1994-08-08",
-    "nationality_iso3": "COD",
-    "team_id": "t28"
+    "player_id": "p0110",
+    "canonical_name": "Assim Madibo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p26",
-    "canonical_name": "Rodri Hernández",
-    "dob": "1996-06-22",
-    "nationality_iso3": "ESP",
-    "team_id": "t29"
+    "player_id": "p0111",
+    "canonical_name": "Ayoub Al-Oui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p27",
-    "canonical_name": "Miguel Almirón",
-    "dob": "1994-02-10",
-    "nationality_iso3": "PRY",
-    "team_id": "t22"
+    "player_id": "p0112",
+    "canonical_name": "Edmilson Junior",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
   },
   {
-    "player_id": "p28",
-    "canonical_name": "Moises Caicedo",
-    "dob": "2001-11-02",
+    "player_id": "p0113",
+    "canonical_name": "Homam Ahmed",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0114",
+    "canonical_name": "Issa Laye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0115",
+    "canonical_name": "Jassem Gaber",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0116",
+    "canonical_name": "Khalid Ali Sabah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0117",
+    "canonical_name": "Lucas Mendes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0118",
+    "canonical_name": "Mahmud Abunada",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0119",
+    "canonical_name": "Meshaal Barsham",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0120",
+    "canonical_name": "Mohamed Al-Mannai",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0121",
+    "canonical_name": "Mohamed Khaled Gouda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0122",
+    "canonical_name": "Mohammed Muntari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0123",
+    "canonical_name": "Mohammed Waad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0124",
+    "canonical_name": "Shehab Ellethy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0125",
+    "canonical_name": "Sultan Al-Brake",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0126",
+    "canonical_name": "Tarek Salman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0127",
+    "canonical_name": "Yousef Aymen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "QAT",
+    "team_id": "t05"
+  },
+  {
+    "player_id": "p0128",
+    "canonical_name": "Bart Verbruggen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0129",
+    "canonical_name": "Cody Gakpo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0130",
+    "canonical_name": "Donyell Malen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0131",
+    "canonical_name": "Emanuel Emegha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0132",
+    "canonical_name": "Frenkie de Jong",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0133",
+    "canonical_name": "Jan Paul van Hecke",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0134",
+    "canonical_name": "Jerdy Schouten",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0135",
+    "canonical_name": "Jurriën Timber",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0136",
+    "canonical_name": "Justin Kluivert",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0137",
+    "canonical_name": "Luciano Valente",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0138",
+    "canonical_name": "Lutsharel Geertruida",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0139",
+    "canonical_name": "Mark Flekken",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0140",
+    "canonical_name": "Matthijs de Ligt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0141",
+    "canonical_name": "Memphis Depay",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0142",
+    "canonical_name": "Micky van de Ven",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0143",
+    "canonical_name": "Nathan Ake",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0144",
+    "canonical_name": "Noa Lang",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0145",
+    "canonical_name": "Quinten Timber",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0146",
+    "canonical_name": "Robin Roefs",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0147",
+    "canonical_name": "Ryan Gravenberch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0148",
+    "canonical_name": "Tijjani Reijnders",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0149",
+    "canonical_name": "Virgil van Dijk",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NED",
+    "team_id": "t08"
+  },
+  {
+    "player_id": "p0150",
+    "canonical_name": "Ao Tanaka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0151",
+    "canonical_name": "Ayase Ueda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0152",
+    "canonical_name": "Ayumu Seko",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0153",
+    "canonical_name": "Daichi Kamada",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0154",
+    "canonical_name": "Daizen Maeda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0155",
+    "canonical_name": "Joel Chima Fujita",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0156",
+    "canonical_name": "Junnosuke Suzuki",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0157",
+    "canonical_name": "Kaishu Sano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0158",
+    "canonical_name": "Keisuke Goto",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0159",
+    "canonical_name": "Keito Nakamura",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0160",
+    "canonical_name": "Ko Itakura",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0161",
+    "canonical_name": "Koki Ogawa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0162",
+    "canonical_name": "Leo Kokubo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0163",
+    "canonical_name": "Ritsu Doan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0164",
+    "canonical_name": "Ryunosuke Sato",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0165",
+    "canonical_name": "Shogo Taniguchi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0166",
+    "canonical_name": "Shuto Machino",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0167",
+    "canonical_name": "Sota Kitano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0168",
+    "canonical_name": "Taishi Brandon Nozawa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0169",
+    "canonical_name": "Takefusa Kubo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0170",
+    "canonical_name": "Tomoki Hayakawa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0171",
+    "canonical_name": "Tomoya Ando",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0172",
+    "canonical_name": "Tsuyoshi Watanabe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0173",
+    "canonical_name": "Yukinari Sugawara",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JPN",
+    "team_id": "t09"
+  },
+  {
+    "player_id": "p0174",
+    "canonical_name": "Ali Maaloul",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0175",
+    "canonical_name": "Amor Layouni",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0176",
+    "canonical_name": "Aymen Dahmen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0177",
+    "canonical_name": "Bechir Ben Said",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0178",
+    "canonical_name": "Chiheb Jebali",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0179",
+    "canonical_name": "Ferjani Sassi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0180",
+    "canonical_name": "Firas Chaouat",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0181",
+    "canonical_name": "Hadj Mahmoud",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0182",
+    "canonical_name": "Hamza Jelassi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0183",
+    "canonical_name": "Hazem Mastouri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0184",
+    "canonical_name": "Houssem Tka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0185",
+    "canonical_name": "Ismael Gharbi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0186",
+    "canonical_name": "Marouane Sahraoui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0187",
+    "canonical_name": "Mohamed Ali Ben Romdhane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0188",
+    "canonical_name": "Mohamed Amine Ben Hamida",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0189",
+    "canonical_name": "Mohamed Ben Ali",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0190",
+    "canonical_name": "Moutaz Neffati",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0191",
+    "canonical_name": "Nacim Dendani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0192",
+    "canonical_name": "Noureddine Farhati",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0193",
+    "canonical_name": "Oussama Haddadi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0194",
+    "canonical_name": "Rayane Anane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0195",
+    "canonical_name": "Seifeddine Jaziri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0196",
+    "canonical_name": "Yassine Meriah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "TUN",
+    "team_id": "t10"
+  },
+  {
+    "player_id": "p0197",
+    "canonical_name": "Aidan Morris",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0198",
+    "canonical_name": "Alex Freeman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0199",
+    "canonical_name": "Auston Trusty",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0200",
+    "canonical_name": "Brenden Aaronson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0201",
+    "canonical_name": "Cristian Roldan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0202",
+    "canonical_name": "Diego Luna",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0203",
+    "canonical_name": "Folarin Balogun",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0204",
+    "canonical_name": "Giovanni Reyna",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0205",
+    "canonical_name": "Haji Wright",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0206",
+    "canonical_name": "Joe Scally",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0207",
+    "canonical_name": "John Tolkin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0208",
+    "canonical_name": "Jonathan Klinsmann",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0209",
+    "canonical_name": "Mark McKenzie",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0210",
+    "canonical_name": "Matt Freese",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0211",
+    "canonical_name": "Maximilian Arfsten",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0212",
+    "canonical_name": "Miles Robinson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0213",
+    "canonical_name": "Patrick Schulte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0214",
+    "canonical_name": "Ricardo Pepi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0215",
+    "canonical_name": "Roman Celentano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0216",
+    "canonical_name": "Sebastian Berhalter",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0217",
+    "canonical_name": "Sergino Dest",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0218",
+    "canonical_name": "Tanner Tessmann",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0219",
+    "canonical_name": "Tim Ream",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0220",
+    "canonical_name": "Timothy Tillman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "USA",
+    "team_id": "t11"
+  },
+  {
+    "player_id": "p0221",
+    "canonical_name": "Ar’jany Martha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0222",
+    "canonical_name": "Armando Obispo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0223",
+    "canonical_name": "Deveron Fonville",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0224",
+    "canonical_name": "Eloy Room",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0225",
+    "canonical_name": "Gervane Kastaneer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0226",
+    "canonical_name": "Godfried Roemeratoe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0227",
+    "canonical_name": "Jearl Margaritha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0228",
+    "canonical_name": "Jeremy Antonisse",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0229",
+    "canonical_name": "Jordi Paulina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0230",
+    "canonical_name": "Joshua Brenet",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0231",
+    "canonical_name": "Juninho Bacuna",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0232",
+    "canonical_name": "Jurgen Locadia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0233",
+    "canonical_name": "Jurien Gaari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0234",
+    "canonical_name": "Kenji Gorre",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0235",
+    "canonical_name": "Kevin Felida",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0236",
+    "canonical_name": "Leandro Bacuna",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0237",
+    "canonical_name": "Livano Comenencia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0238",
+    "canonical_name": "Roshon van Eijma",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0239",
+    "canonical_name": "Sherel Floranus",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0240",
+    "canonical_name": "Shurandy Sambo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0241",
+    "canonical_name": "Sontje Hansen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0242",
+    "canonical_name": "Tahith Chong",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0243",
+    "canonical_name": "Trevor Doornbusch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0244",
+    "canonical_name": "Tyrese Noslin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0245",
+    "canonical_name": "Tyrick Bodak",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CUW",
+    "team_id": "t12"
+  },
+  {
+    "player_id": "p0246",
+    "canonical_name": "Alexandre Pierre",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0247",
+    "canonical_name": "Carl Fred Sainte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0248",
+    "canonical_name": "Carlens Arcus",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0249",
+    "canonical_name": "Christopher Attys",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0250",
+    "canonical_name": "Danley Jean Jacques",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0251",
+    "canonical_name": "Derrick Etienne Jr.",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0252",
+    "canonical_name": "Don Deedson Louicius",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0253",
+    "canonical_name": "Duckens Nazon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0254",
+    "canonical_name": "Duke Lacroix",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0255",
+    "canonical_name": "Frantzdy Pierrot",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0256",
+    "canonical_name": "Garven Metusala",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0257",
+    "canonical_name": "Hannes Delcroix",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0258",
+    "canonical_name": "Jean-Ricner Bellegarde",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0259",
+    "canonical_name": "Johny Placide",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0260",
+    "canonical_name": "Josue Casimir",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0261",
+    "canonical_name": "Josue Duverger",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0262",
+    "canonical_name": "Keeto Thermoncy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0263",
+    "canonical_name": "Leverton Pierre",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0264",
+    "canonical_name": "Martin Experience",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0265",
+    "canonical_name": "Ricardo Ade",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0266",
+    "canonical_name": "Ruben Providence",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0267",
+    "canonical_name": "Stephane Lambese",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0268",
+    "canonical_name": "Woobens Pacius",
+    "dob": "1900-01-01",
+    "nationality_iso3": "HAI",
+    "team_id": "t13"
+  },
+  {
+    "player_id": "p0269",
+    "canonical_name": "Abbosbek Fayzullaev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0270",
+    "canonical_name": "Abdukodir Khusanov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0271",
+    "canonical_name": "Akramjon Komilov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0272",
+    "canonical_name": "Azizbek Turgunboev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0273",
+    "canonical_name": "Bobur Abdikholikov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0274",
+    "canonical_name": "Eldor Shomurodov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0275",
+    "canonical_name": "Farrukh Sayfiev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0276",
+    "canonical_name": "Igor Sergeev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0277",
+    "canonical_name": "Jaloliddin Masharipov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0278",
+    "canonical_name": "Jasurbek Yakhshiboev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0279",
+    "canonical_name": "Khojiakbar Alijonov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0280",
+    "canonical_name": "Khojimat Erkinov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0281",
+    "canonical_name": "Khusayin Norchaev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0282",
+    "canonical_name": "Odiljon Hamrobekov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0283",
+    "canonical_name": "Oston Urunov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0284",
+    "canonical_name": "Otabek Shukurov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0285",
+    "canonical_name": "Rustamjon Ashurmatov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0286",
+    "canonical_name": "Sanjar Kuvvatov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0287",
+    "canonical_name": "Sherzod Nasrullaev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0288",
+    "canonical_name": "Umar Eshmurodov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0289",
+    "canonical_name": "Utkir Yusupov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0290",
+    "canonical_name": "Vladimir Nazarov",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0291",
+    "canonical_name": "Zabikhillo Urinboev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "UZB",
+    "team_id": "t14"
+  },
+  {
+    "player_id": "p0292",
+    "canonical_name": "Abdallah Nasib",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0293",
+    "canonical_name": "Adham Al-Quraishi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0294",
+    "canonical_name": "Ahmad Ersan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0295",
+    "canonical_name": "Ali Hajabi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0296",
+    "canonical_name": "Ali Olwan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0297",
+    "canonical_name": "Amer Jamous",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0298",
+    "canonical_name": "Hadi Al-Hourani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0299",
+    "canonical_name": "Husam Abu Dahab",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0300",
+    "canonical_name": "Ibrahim Sadeh",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0301",
+    "canonical_name": "Issam Smeeri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0302",
+    "canonical_name": "Mahmoud Al-Mardi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0303",
+    "canonical_name": "Malek Shalabiya",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0304",
+    "canonical_name": "Mohammad Abu Hashish",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0305",
+    "canonical_name": "Mohammad Abu Zrayq",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0306",
+    "canonical_name": "Mohannad Abu Taha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0307",
+    "canonical_name": "Nizar Al-Rashdan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0308",
+    "canonical_name": "Nour Bani Attiah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0309",
+    "canonical_name": "Odeh Al-Fakhouri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0310",
+    "canonical_name": "Rajaei Ayed",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0311",
+    "canonical_name": "Saed Al-Rosan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0312",
+    "canonical_name": "Salim Obaid",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0313",
+    "canonical_name": "Yazan Al-Naimat",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0314",
+    "canonical_name": "Yazeed Abulaila",
+    "dob": "1900-01-01",
+    "nationality_iso3": "JOR",
+    "team_id": "t15"
+  },
+  {
+    "player_id": "p0315",
+    "canonical_name": "Alexis Mac Allister",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0316",
+    "canonical_name": "Cristian Romero",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0317",
+    "canonical_name": "Emiliano Buendia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0318",
+    "canonical_name": "Geronimo Rulli",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0319",
+    "canonical_name": "Gianluca Prestianni",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0320",
+    "canonical_name": "Giovani Lo Celso",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0321",
+    "canonical_name": "Jose Manuel Lopez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0322",
+    "canonical_name": "Kevin Mac Allister",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0323",
+    "canonical_name": "Lautaro Martinez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0324",
+    "canonical_name": "Leandro Paredes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0325",
+    "canonical_name": "Lionel Messi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0326",
+    "canonical_name": "Marcos Senesi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0327",
+    "canonical_name": "Maximo Perrone",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0328",
+    "canonical_name": "Nico Paz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0329",
+    "canonical_name": "Nicolas Gonzalez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0330",
+    "canonical_name": "Nicolas Otamendi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0331",
+    "canonical_name": "Nicolas Tagliafico",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0332",
+    "canonical_name": "Rodrigo De Paul",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0333",
+    "canonical_name": "Thiago Almada",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0334",
+    "canonical_name": "Valentin Barco",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0335",
+    "canonical_name": "Walter Benitez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ARG",
+    "team_id": "t17"
+  },
+  {
+    "player_id": "p0336",
+    "canonical_name": "Alex Sandro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0337",
+    "canonical_name": "Andrey Santos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0338",
+    "canonical_name": "Bento",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0339",
+    "canonical_name": "Bruno Guimaraes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0340",
+    "canonical_name": "Caio Henrique",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0341",
+    "canonical_name": "Casemiro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0342",
+    "canonical_name": "Danilo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0343",
+    "canonical_name": "Ederson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0344",
+    "canonical_name": "Estêvão",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0345",
+    "canonical_name": "Fabinho",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0346",
+    "canonical_name": "Fabricio Bruno",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0347",
+    "canonical_name": "Gabriel Magalhaes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0348",
+    "canonical_name": "Joao Pedro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0349",
+    "canonical_name": "John Victor",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0350",
+    "canonical_name": "Lucas Paqueta",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0351",
+    "canonical_name": "Luciano Juba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0352",
+    "canonical_name": "Luiz Henrique",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0353",
+    "canonical_name": "Marquinhos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0354",
+    "canonical_name": "Matheus Cunha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0355",
+    "canonical_name": "Paulo Henrique",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0356",
+    "canonical_name": "Richarlison",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0357",
+    "canonical_name": "Vinicius Junior",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0358",
+    "canonical_name": "Vitor Roque",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0359",
+    "canonical_name": "Wesley",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BRA",
+    "team_id": "t18"
+  },
+  {
+    "player_id": "p0360",
+    "canonical_name": "Brian Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0361",
+    "canonical_name": "Cristopher Fiermarin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0362",
+    "canonical_name": "Emiliano Martinez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0363",
+    "canonical_name": "Facundo Pellistri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0364",
+    "canonical_name": "Facundo Torres",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0365",
+    "canonical_name": "Federico Vinas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0366",
+    "canonical_name": "Giorgian de Arrascaeta",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0367",
+    "canonical_name": "Guillermo Varela",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0368",
+    "canonical_name": "Ignacio Laquintana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0369",
+    "canonical_name": "Joaquin Piquerez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0370",
+    "canonical_name": "Jose Luis Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0371",
+    "canonical_name": "Jose Maria Gimenez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0372",
+    "canonical_name": "Juan Manuel Sanabria",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0373",
+    "canonical_name": "Luciano Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0374",
+    "canonical_name": "Manuel Ugarte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0375",
+    "canonical_name": "Mathias Olivera",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0376",
+    "canonical_name": "Matias Vina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0377",
+    "canonical_name": "Maximiliano Araujo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0378",
+    "canonical_name": "Nahitan Nandez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0379",
+    "canonical_name": "Rodrigo Aguirre",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0380",
+    "canonical_name": "Rodrigo Bentancur",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0381",
+    "canonical_name": "Rodrigo Zalazar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0382",
+    "canonical_name": "Ronald Araujo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0383",
+    "canonical_name": "Santiago Bueno",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0384",
+    "canonical_name": "Santiago Homenchenko",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0385",
+    "canonical_name": "Santiago Mele",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0386",
+    "canonical_name": "Sebastian Caceres",
+    "dob": "1900-01-01",
+    "nationality_iso3": "URU",
+    "team_id": "t19"
+  },
+  {
+    "player_id": "p0387",
+    "canonical_name": "Alvaro Angulo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0388",
+    "canonical_name": "Alvaro Montero",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0389",
+    "canonical_name": "Andres Gomez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0390",
+    "canonical_name": "Camilo Vargas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0391",
+    "canonical_name": "Carlos Cuesta",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0392",
+    "canonical_name": "Daniel Munoz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0393",
+    "canonical_name": "David Ospina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0394",
+    "canonical_name": "Davinson Sanchez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0395",
+    "canonical_name": "Gustavo Puerta",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0396",
+    "canonical_name": "James Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0397",
+    "canonical_name": "Jefferson Lerma",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0398",
+    "canonical_name": "Jhon Arias",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0399",
+    "canonical_name": "Jhon Cordoba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0400",
+    "canonical_name": "Jhon Lucumi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0401",
+    "canonical_name": "Johan Carbonero",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0402",
+    "canonical_name": "Johan Mojica",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0403",
+    "canonical_name": "Jorge Carrascal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0404",
+    "canonical_name": "Juan Portilla",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0405",
+    "canonical_name": "Kevin Castano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0406",
+    "canonical_name": "Luis Diaz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0407",
+    "canonical_name": "Luis Suarez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0408",
+    "canonical_name": "Rafael Santos Borre",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0409",
+    "canonical_name": "Richard Rios",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0410",
+    "canonical_name": "Santiago Arias",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0411",
+    "canonical_name": "Yaser Asprilla",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0412",
+    "canonical_name": "Yerry Mina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "COL",
+    "team_id": "t20"
+  },
+  {
+    "player_id": "p0413",
+    "canonical_name": "Alan Franco",
+    "dob": "1900-01-01",
     "nationality_iso3": "ECU",
     "team_id": "t21"
   },
   {
-    "player_id": "p29",
-    "canonical_name": "Ryan Mendes",
-    "dob": "1990-01-08",
+    "player_id": "p0414",
+    "canonical_name": "Alan Minda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0415",
+    "canonical_name": "Angelo Preciado",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0416",
+    "canonical_name": "Cristhian Loor",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0417",
+    "canonical_name": "Cristian Ramirez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0418",
+    "canonical_name": "Denil Castillo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0419",
+    "canonical_name": "Felix Torres",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0420",
+    "canonical_name": "Gonzalo Plata",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0421",
+    "canonical_name": "Hernan Galindez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0422",
+    "canonical_name": "Jeremy Arevalo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0423",
+    "canonical_name": "Jhoanner Chavez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0424",
+    "canonical_name": "Joel Ordonez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0425",
+    "canonical_name": "John Mercado",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0426",
+    "canonical_name": "John Yeboah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0427",
+    "canonical_name": "Jordy Alcivar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0428",
+    "canonical_name": "Kendry Paez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0429",
+    "canonical_name": "Kevin Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0430",
+    "canonical_name": "Leonardo Campana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0431",
+    "canonical_name": "Leonardo Realpe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0432",
+    "canonical_name": "Moises Caicedo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0433",
+    "canonical_name": "Moises Ramirez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0434",
+    "canonical_name": "Nilson Angulo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0435",
+    "canonical_name": "Patrik Mercado",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0436",
+    "canonical_name": "Pedro Vite",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0437",
+    "canonical_name": "Piero Hincapie",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0438",
+    "canonical_name": "Willian Pacho",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0439",
+    "canonical_name": "Yaimar Medina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ECU",
+    "team_id": "t21"
+  },
+  {
+    "player_id": "p0440",
+    "canonical_name": "Agustin Sandez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0441",
+    "canonical_name": "Alan Benitez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0442",
+    "canonical_name": "Aldo Perez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0443",
+    "canonical_name": "Alejandro Romero Gamarra",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0444",
+    "canonical_name": "Alex Arce",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0445",
+    "canonical_name": "Alexis Duarte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0446",
+    "canonical_name": "Antonio Sanabria",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0447",
+    "canonical_name": "Blas Riveros",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0448",
+    "canonical_name": "Braian Ojeda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0449",
+    "canonical_name": "Damian Bobadilla",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0450",
+    "canonical_name": "Diego Gomez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0451",
+    "canonical_name": "Diego Gonzalez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0452",
+    "canonical_name": "Diego Leon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0453",
+    "canonical_name": "Gustavo Gomez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0454",
+    "canonical_name": "Gustavo Velazquez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0455",
+    "canonical_name": "Hugo Cuenca",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0456",
+    "canonical_name": "Juan Caceres",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0457",
+    "canonical_name": "Julio Enciso",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0458",
+    "canonical_name": "Junior Alonso",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0459",
+    "canonical_name": "Lucas Romero",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0460",
+    "canonical_name": "Matias Galarza",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0461",
+    "canonical_name": "Miguel Almiron",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0462",
+    "canonical_name": "Orlando Gill",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0463",
+    "canonical_name": "Ramon Sosa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0464",
+    "canonical_name": "Roberto Fernandez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0465",
+    "canonical_name": "Ronaldo Martinez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAR",
+    "team_id": "t22"
+  },
+  {
+    "player_id": "p0466",
+    "canonical_name": "Alex Rufer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0467",
+    "canonical_name": "Andre de Jong",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0468",
+    "canonical_name": "Ben Old",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0469",
+    "canonical_name": "Ben Waine",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0470",
+    "canonical_name": "Bill Tuiloma",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0471",
+    "canonical_name": "Callum McCowatt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0472",
+    "canonical_name": "Elijah Just",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0473",
+    "canonical_name": "Finn Surman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0474",
+    "canonical_name": "Francis de Vries",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0475",
+    "canonical_name": "George Stanger",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0476",
+    "canonical_name": "James McGarry",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0477",
+    "canonical_name": "Jesse Randall",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0478",
+    "canonical_name": "Joe Bell",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0479",
+    "canonical_name": "Kees Sims",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0480",
+    "canonical_name": "Kosta Barbarouses",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0481",
+    "canonical_name": "Marko Stamenic",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0482",
+    "canonical_name": "Matthew Garbett",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0483",
+    "canonical_name": "Max Crocombe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0484",
+    "canonical_name": "Michael Boxall",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0485",
+    "canonical_name": "Nik Tzanev",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0486",
+    "canonical_name": "Owen Parker-Price",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0487",
+    "canonical_name": "Sarpreet Singh",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0488",
+    "canonical_name": "Storm Roux",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0489",
+    "canonical_name": "Tommy Smith",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0490",
+    "canonical_name": "Tyler Bindon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NZL",
+    "team_id": "t23"
+  },
+  {
+    "player_id": "p0491",
+    "canonical_name": "Abdessamad Ezzalzouli",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0492",
+    "canonical_name": "Achraf Dari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0493",
+    "canonical_name": "Achraf Hakimi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0494",
+    "canonical_name": "Adam Masina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0495",
+    "canonical_name": "Amine Adli",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0496",
+    "canonical_name": "Ayoub El Kaabi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0497",
+    "canonical_name": "Azzedine Ounahi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0498",
+    "canonical_name": "Bilal El Khannouss",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0499",
+    "canonical_name": "Brahim Díaz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0500",
+    "canonical_name": "Chemsdine Talbi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0501",
+    "canonical_name": "El Mehdi Benabid",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0502",
+    "canonical_name": "Eliesse Ben Seghir",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0503",
+    "canonical_name": "Hakim Ziyech",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0504",
+    "canonical_name": "Hamza Igamane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0505",
+    "canonical_name": "Ilias Akhomach",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0506",
+    "canonical_name": "Ismael Saibari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0507",
+    "canonical_name": "Jawad El Yamiq",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0508",
+    "canonical_name": "Maroan Sannadi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0509",
+    "canonical_name": "Mohamed Chibi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0510",
+    "canonical_name": "Munir El Kajoui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0511",
+    "canonical_name": "Nayef Aguerd",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0512",
+    "canonical_name": "Neil El Aynaoui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0513",
+    "canonical_name": "Noussair Mazraoui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0514",
+    "canonical_name": "Omar El Hilali",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0515",
+    "canonical_name": "Oussama El Azzouzi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0516",
+    "canonical_name": "Sofyan Amrabat",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0517",
+    "canonical_name": "Souffian El Karouani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0518",
+    "canonical_name": "Soufiane Rahimi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0519",
+    "canonical_name": "Yassine Bounou",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0520",
+    "canonical_name": "Youssef Belammari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0521",
+    "canonical_name": "Youssef En-Nesyri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "MAR",
+    "team_id": "t24"
+  },
+  {
+    "player_id": "p0522",
+    "canonical_name": "Abdoulaye Seck",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0523",
+    "canonical_name": "Antoine Mendy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0524",
+    "canonical_name": "Assane Diao",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0525",
+    "canonical_name": "Boulaye Dia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0526",
+    "canonical_name": "Cherif Ndiaye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0527",
+    "canonical_name": "Edouard Mendy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0528",
+    "canonical_name": "El Hadji Malick Diouf",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0529",
+    "canonical_name": "Habib Diallo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0530",
+    "canonical_name": "Idrissa Gueye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0531",
+    "canonical_name": "Ilay Camara",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0532",
+    "canonical_name": "Iliman Ndiaye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0533",
+    "canonical_name": "Ismail Jakobs",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0534",
+    "canonical_name": "Ismaila Sarr",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0535",
+    "canonical_name": "Kalidou Koulibaly",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0536",
+    "canonical_name": "Lamine Camara",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0537",
+    "canonical_name": "Mamadou Sarr",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0538",
+    "canonical_name": "Mory Diaw",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0539",
+    "canonical_name": "Moussa Niakhate",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0540",
+    "canonical_name": "Nicolas Jackson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0541",
+    "canonical_name": "Pape Gueye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0542",
+    "canonical_name": "Pape Matar Sarr",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0543",
+    "canonical_name": "Pathe Ciss",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0544",
+    "canonical_name": "Rassoul Ndiaye",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0545",
+    "canonical_name": "Sadio Mane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0546",
+    "canonical_name": "Yehvann Diouf",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SEN",
+    "team_id": "t25"
+  },
+  {
+    "player_id": "p0547",
+    "canonical_name": "Afsha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0548",
+    "canonical_name": "Ahmed Atef",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0549",
+    "canonical_name": "Ahmed Hany",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0550",
+    "canonical_name": "Akram Tawfik",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0551",
+    "canonical_name": "Ali Lotfi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0552",
+    "canonical_name": "Amr El Solia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0553",
+    "canonical_name": "El-Wensh",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0554",
+    "canonical_name": "Ghanam Mohamed",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0555",
+    "canonical_name": "Hady Reyad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0556",
+    "canonical_name": "Hossam Hassan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0557",
+    "canonical_name": "Islam Issa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0558",
+    "canonical_name": "Karim El Eraki",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0559",
+    "canonical_name": "Karim Fouad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0560",
+    "canonical_name": "Mido Gaber",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0561",
+    "canonical_name": "Mohamed Awad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0562",
+    "canonical_name": "Mohamed Bassam",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0563",
+    "canonical_name": "Mohamed Elneny",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0564",
+    "canonical_name": "Mohamed Salah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0565",
+    "canonical_name": "Mohamed Sherif",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0566",
+    "canonical_name": "Mostafa Saad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0567",
+    "canonical_name": "Mostafa Shalaby",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0568",
+    "canonical_name": "Ragab Nabil",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0569",
+    "canonical_name": "Yassin Marei",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0570",
+    "canonical_name": "Yehia Zakaria",
+    "dob": "1900-01-01",
+    "nationality_iso3": "EGY",
+    "team_id": "t26"
+  },
+  {
+    "player_id": "p0571",
+    "canonical_name": "Ailson Tavares",
+    "dob": "1900-01-01",
     "nationality_iso3": "CPV",
     "team_id": "t27"
   },
   {
-    "player_id": "p30",
-    "canonical_name": "Frantzdy Pierrot",
-    "dob": "1995-03-29",
-    "nationality_iso3": "HTI",
-    "team_id": "t13"
+    "player_id": "p0572",
+    "canonical_name": "Alessio da Cruz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0573",
+    "canonical_name": "Bruno Varela",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0574",
+    "canonical_name": "Dailon Livramento",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0575",
+    "canonical_name": "David Moreira",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0576",
+    "canonical_name": "Deroy Duarte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0577",
+    "canonical_name": "Diney",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0578",
+    "canonical_name": "Garry Rodrigues",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0579",
+    "canonical_name": "Helio Varela",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0580",
+    "canonical_name": "Heriberto Tavares",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0581",
+    "canonical_name": "Jamiro Monteiro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0582",
+    "canonical_name": "Joao Paulo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0583",
+    "canonical_name": "Jojo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0584",
+    "canonical_name": "Kelvin Pires",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0585",
+    "canonical_name": "Kevin Pina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0586",
+    "canonical_name": "Laros Duarte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0587",
+    "canonical_name": "Marcio Rosa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0588",
+    "canonical_name": "Nuno da Costa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0589",
+    "canonical_name": "Ricardo Santos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0590",
+    "canonical_name": "Ryan Mendes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0591",
+    "canonical_name": "Sidny Lopes Cabral",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0592",
+    "canonical_name": "Stopira",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0593",
+    "canonical_name": "Telmo Arcanjo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0594",
+    "canonical_name": "Vozinha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0595",
+    "canonical_name": "Wagner Pina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0596",
+    "canonical_name": "Willy Semedo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CPV",
+    "team_id": "t27"
+  },
+  {
+    "player_id": "p0597",
+    "canonical_name": "Aleix Garcia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0598",
+    "canonical_name": "Alex Baena",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0599",
+    "canonical_name": "Alex Grimaldo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0600",
+    "canonical_name": "Alex Remiro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0601",
+    "canonical_name": "Aymeric Laporte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0602",
+    "canonical_name": "Borja Iglesias",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0603",
+    "canonical_name": "Dani Olmo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0604",
+    "canonical_name": "Dani Vivian",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0605",
+    "canonical_name": "David Raya",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0606",
+    "canonical_name": "Fabian Ruiz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0607",
+    "canonical_name": "Fermin Lopez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0608",
+    "canonical_name": "Ferran Torres",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0609",
+    "canonical_name": "Jorge de Frutos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0610",
+    "canonical_name": "Lamine Yamal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0611",
+    "canonical_name": "Marc Cucurella",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0612",
+    "canonical_name": "Marcos Llorente",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0613",
+    "canonical_name": "Martin Zubimendi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0614",
+    "canonical_name": "Mikel Merino",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0615",
+    "canonical_name": "Mikel Oyarzabal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0616",
+    "canonical_name": "Pablo Barrios",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0617",
+    "canonical_name": "Pablo Fornals",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0618",
+    "canonical_name": "Pau Cubarsi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0619",
+    "canonical_name": "Pedro Porro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0620",
+    "canonical_name": "Unai Simon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0621",
+    "canonical_name": "Yeremy Pino",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ESP",
+    "team_id": "t29"
+  },
+  {
+    "player_id": "p0622",
+    "canonical_name": "Bradley Barcola",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0623",
+    "canonical_name": "Brice Samba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0624",
+    "canonical_name": "Christopher Nkunku",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0625",
+    "canonical_name": "Dayot Upamecano",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0626",
+    "canonical_name": "Florian Thauvin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0627",
+    "canonical_name": "Ibrahima Konate",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0628",
+    "canonical_name": "Jean-Philippe Mateta",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0629",
+    "canonical_name": "Jules Kounde",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0630",
+    "canonical_name": "Khephren Thuram",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0631",
+    "canonical_name": "Kylian Mbappé",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0632",
+    "canonical_name": "Lucas Chevalier",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0633",
+    "canonical_name": "Lucas Digne",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0634",
+    "canonical_name": "Lucas Hernandez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0635",
+    "canonical_name": "Maghnes Akliouche",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0636",
+    "canonical_name": "Malo Gusto",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0637",
+    "canonical_name": "Michael Olise",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0638",
+    "canonical_name": "Mike Maignan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0639",
+    "canonical_name": "N’Golo Kante",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0640",
+    "canonical_name": "Rayan Cherki",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0641",
+    "canonical_name": "Theo Hernandez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0642",
+    "canonical_name": "Warren Zaire-Emery",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0643",
+    "canonical_name": "William Saliba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "FRA",
+    "team_id": "t30"
+  },
+  {
+    "player_id": "p0644",
+    "canonical_name": "Abdelkader Bedrane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0645",
+    "canonical_name": "Achref Abada",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0646",
+    "canonical_name": "Adam Ounas",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0647",
+    "canonical_name": "Adil Boulbina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0648",
+    "canonical_name": "Amir Sayoud",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0649",
+    "canonical_name": "Farid Chaâl",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0650",
+    "canonical_name": "Houari Baouche",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0651",
+    "canonical_name": "Houssem Eddine Mrezigue",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0652",
+    "canonical_name": "Islam Slimani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0653",
+    "canonical_name": "Mohamed Amine Tougai",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0654",
+    "canonical_name": "Mohamed Idir Hadid",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0655",
+    "canonical_name": "Naoufel Khacef",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0656",
+    "canonical_name": "Rafik Guitane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0657",
+    "canonical_name": "Rayane Yesli",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0658",
+    "canonical_name": "Reda Benchaa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0659",
+    "canonical_name": "Réda Halaïmia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0660",
+    "canonical_name": "Redouane Berkane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0661",
+    "canonical_name": "Sofiane Bendebka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0662",
+    "canonical_name": "Victor Lekhal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0663",
+    "canonical_name": "Yacine Brahimi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0664",
+    "canonical_name": "Yassine Benzia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0665",
+    "canonical_name": "Youcef Atal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0666",
+    "canonical_name": "Zakaria Draoui",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ALG",
+    "team_id": "t31"
+  },
+  {
+    "player_id": "p0667",
+    "canonical_name": "Aiden O’Neill",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0668",
+    "canonical_name": "Al Hassan Toure",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0669",
+    "canonical_name": "Callum Elder",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0670",
+    "canonical_name": "Cameron Burgess",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0671",
+    "canonical_name": "Cameron Devlin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0672",
+    "canonical_name": "Connor Metcalfe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0673",
+    "canonical_name": "Craig Goodwin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0674",
+    "canonical_name": "Jack Iredale",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0675",
+    "canonical_name": "Jackson Irvine",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0676",
+    "canonical_name": "James Overy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0677",
+    "canonical_name": "Jason Geria",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0678",
+    "canonical_name": "Kai Trewin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0679",
+    "canonical_name": "Kye Rowles",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0680",
+    "canonical_name": "Lewis Miller",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0681",
+    "canonical_name": "Martin Boyle",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0682",
+    "canonical_name": "Mathew Ryan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0683",
+    "canonical_name": "Max Balard",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0684",
+    "canonical_name": "Milos Degenek",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0685",
+    "canonical_name": "Mohamed Toure",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0686",
+    "canonical_name": "Nestory Irankunda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0687",
+    "canonical_name": "Nicholas D’Agostino",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0688",
+    "canonical_name": "Patrick Beach",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0689",
+    "canonical_name": "Paul Izzo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0690",
+    "canonical_name": "Paul Okon-Engstler",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0691",
+    "canonical_name": "Riley McGree",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUS",
+    "team_id": "t32"
+  },
+  {
+    "player_id": "p0692",
+    "canonical_name": "Alessandro Schopf",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0693",
+    "canonical_name": "Alexander Prass",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0694",
+    "canonical_name": "Alexander Schlager",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0695",
+    "canonical_name": "Christoph Baumgartner",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0696",
+    "canonical_name": "David Alaba",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0697",
+    "canonical_name": "Florian Grillitsch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0698",
+    "canonical_name": "Kevin Danso",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0699",
+    "canonical_name": "Konrad Laimer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0700",
+    "canonical_name": "Leopold Querfeld",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0701",
+    "canonical_name": "Marcel Sabitzer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0702",
+    "canonical_name": "Marco Friedl",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0703",
+    "canonical_name": "Marco Grull",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0704",
+    "canonical_name": "Marko Arnautovic",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0705",
+    "canonical_name": "Michael Gregoritsch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0706",
+    "canonical_name": "Nicolas Kristof",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0707",
+    "canonical_name": "Nicolas Seiwald",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0708",
+    "canonical_name": "Nikolas Polster",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0709",
+    "canonical_name": "Nikolaus Wurmbrand",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0710",
+    "canonical_name": "Patrick Pentz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0711",
+    "canonical_name": "Patrick Wimmer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0712",
+    "canonical_name": "Philipp Lienhart",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0713",
+    "canonical_name": "Phillipp Mwene",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0714",
+    "canonical_name": "Raul Florucz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0715",
+    "canonical_name": "Romano Schmid",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0716",
+    "canonical_name": "Stefan Posch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0717",
+    "canonical_name": "Xaver Schlager",
+    "dob": "1900-01-01",
+    "nationality_iso3": "AUT",
+    "team_id": "t33"
+  },
+  {
+    "player_id": "p0718",
+    "canonical_name": "Alexis Saelemaekers",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0719",
+    "canonical_name": "Arthur Theate",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0720",
+    "canonical_name": "Axel Witsel",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0721",
+    "canonical_name": "Brandon Mechele",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0722",
+    "canonical_name": "Charles De Ketelaere",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0723",
+    "canonical_name": "Charles Vanhoutte",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0724",
+    "canonical_name": "Diego Moreira",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0725",
+    "canonical_name": "Dodi Lukebakio",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0726",
+    "canonical_name": "Hans Vanaken",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0727",
+    "canonical_name": "Jeremy Doku",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0728",
+    "canonical_name": "Joaquin Seys",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0729",
+    "canonical_name": "Koni De Winter",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0730",
+    "canonical_name": "Leandro Trossard",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0731",
+    "canonical_name": "Lois Openda",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0732",
+    "canonical_name": "Maarten Vandevoordt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0733",
+    "canonical_name": "Matz Sels",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0734",
+    "canonical_name": "Maxim De Cuyper",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0735",
+    "canonical_name": "Mike Penders",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0736",
+    "canonical_name": "Nicolas Raskin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0737",
+    "canonical_name": "Romeo Vermant",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0738",
+    "canonical_name": "Senne Lammens",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0739",
+    "canonical_name": "Thomas Meunier",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0740",
+    "canonical_name": "Timothy Castagne",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0741",
+    "canonical_name": "Youri Tielemans",
+    "dob": "1900-01-01",
+    "nationality_iso3": "BEL",
+    "team_id": "t34"
+  },
+  {
+    "player_id": "p0742",
+    "canonical_name": "Andrej Kramarić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0743",
+    "canonical_name": "Dominik Livaković",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0744",
+    "canonical_name": "Duje Ćaleta-Car",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0745",
+    "canonical_name": "Franjo Ivanović",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0746",
+    "canonical_name": "Igor Matanović",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0747",
+    "canonical_name": "Ivan Perišić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0748",
+    "canonical_name": "Ivica Ivušić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0749",
+    "canonical_name": "Ivor Pandur",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0750",
+    "canonical_name": "Josip Stanišić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0751",
+    "canonical_name": "Josip Šutalo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0752",
+    "canonical_name": "Joško Gvardiol",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0753",
+    "canonical_name": "Kristijan Jakić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0754",
+    "canonical_name": "Luka Modrić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0755",
+    "canonical_name": "Luka Vušković",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0756",
+    "canonical_name": "Marco Pašalić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0757",
+    "canonical_name": "Marin Pongračić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0758",
+    "canonical_name": "Mario Pašalić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0759",
+    "canonical_name": "Martin Erlić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0760",
+    "canonical_name": "Mislav Oršić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0761",
+    "canonical_name": "Nikola Moro",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0762",
+    "canonical_name": "Nikola Vlašić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0763",
+    "canonical_name": "Petar Musa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0764",
+    "canonical_name": "Petar Sučić",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0765",
+    "canonical_name": "Toni Fruk",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CRO",
+    "team_id": "t35"
+  },
+  {
+    "player_id": "p0766",
+    "canonical_name": "Aleksandar Pavlovic",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0767",
+    "canonical_name": "Alexander Nübel",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0768",
+    "canonical_name": "Assan Ouedraogo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0769",
+    "canonical_name": "David Raum",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0770",
+    "canonical_name": "Felix Nmecha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0771",
+    "canonical_name": "Finn Dahmen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0772",
+    "canonical_name": "Florian Wirtz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0773",
+    "canonical_name": "Jamie Leweling",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0774",
+    "canonical_name": "Jonathan Burkardt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0775",
+    "canonical_name": "Jonathan Tah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0776",
+    "canonical_name": "Joshua Kimmich",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0777",
+    "canonical_name": "Karim Adeyemi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0778",
+    "canonical_name": "Kevin Schade",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0779",
+    "canonical_name": "Leon Goretzka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0780",
+    "canonical_name": "Leroy Sane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0781",
+    "canonical_name": "Malick Thiaw",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0782",
+    "canonical_name": "Nathaniel Brown",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0783",
+    "canonical_name": "Nick Woltemade",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0784",
+    "canonical_name": "Nico Schlotterbeck",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0785",
+    "canonical_name": "Noah Atubolu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0786",
+    "canonical_name": "Oliver Baumann",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0787",
+    "canonical_name": "Ridle Baku",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0788",
+    "canonical_name": "Said El Mala",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0789",
+    "canonical_name": "Waldemar Anton",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GER",
+    "team_id": "t37"
+  },
+  {
+    "player_id": "p0790",
+    "canonical_name": "Abu Francis",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0791",
+    "canonical_name": "Alidu Seidu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0792",
+    "canonical_name": "Antoine Semenyo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0793",
+    "canonical_name": "Benjamin Asare",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0794",
+    "canonical_name": "Brandon Thomas-Asante",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0795",
+    "canonical_name": "Caleb Yirenkyi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0796",
+    "canonical_name": "Christopher Bonsu Baah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0797",
+    "canonical_name": "Derrick Köhn",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0798",
+    "canonical_name": "Ebenezer Annan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0799",
+    "canonical_name": "Gideon Mensah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0800",
+    "canonical_name": "Jerome Opoku",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0801",
+    "canonical_name": "Jonas Adjetey",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0802",
+    "canonical_name": "Joseph Anang",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0803",
+    "canonical_name": "Kamaldeen Sulemana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0804",
+    "canonical_name": "Kelvin Nkrumah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0805",
+    "canonical_name": "Kojo Peprah Oppong",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0806",
+    "canonical_name": "Kwasi Sibo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0807",
+    "canonical_name": "Lawrence Ati-Zigi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0808",
+    "canonical_name": "Prince Kwabena Adu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0809",
+    "canonical_name": "Prince Osei Owusu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0810",
+    "canonical_name": "Prince Owusu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "GHA",
+    "team_id": "t38"
+  },
+  {
+    "player_id": "p0811",
+    "canonical_name": "Adam Wharton",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0812",
+    "canonical_name": "Alex Scott",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0813",
+    "canonical_name": "Anthony Gordon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0814",
+    "canonical_name": "Bukayo Saka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0815",
+    "canonical_name": "Dan Burn",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0816",
+    "canonical_name": "Dean Henderson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0817",
+    "canonical_name": "Declan Rice",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0818",
+    "canonical_name": "Djed Spence",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0819",
+    "canonical_name": "Eberechi Eze",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0820",
+    "canonical_name": "Elliot Anderson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0821",
+    "canonical_name": "Ezri Konsa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0822",
+    "canonical_name": "Harry Kane",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0823",
+    "canonical_name": "Jarell Quansah",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0824",
+    "canonical_name": "Jarrod Bowen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0825",
+    "canonical_name": "John Stones",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0826",
+    "canonical_name": "Jordan Henderson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0827",
+    "canonical_name": "Jordan Pickford",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0828",
+    "canonical_name": "Jude Bellingham",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0829",
+    "canonical_name": "Marc Guehi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0830",
+    "canonical_name": "Marcus Rashford",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0831",
+    "canonical_name": "Morgan Rogers",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0832",
+    "canonical_name": "Nick Pope",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0833",
+    "canonical_name": "Nico O’Reilly",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0834",
+    "canonical_name": "Reece James",
+    "dob": "1900-01-01",
+    "nationality_iso3": "ENG",
+    "team_id": "t39"
+  },
+  {
+    "player_id": "p0835",
+    "canonical_name": "Ali Alipour",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0836",
+    "canonical_name": "Ali Nemati",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0837",
+    "canonical_name": "Alireza Beiranvand",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0838",
+    "canonical_name": "Alireza Koushki",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0839",
+    "canonical_name": "Amirhossein Hosseinzadeh",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0840",
+    "canonical_name": "Aria Yousefi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0841",
+    "canonical_name": "Danial Esmaeilifar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0842",
+    "canonical_name": "Hadi Habibinejad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0843",
+    "canonical_name": "Hossein Hosseini",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0844",
+    "canonical_name": "Hossein Kanaanizadegan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0845",
+    "canonical_name": "Majid Hosseini",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0846",
+    "canonical_name": "Mehdi Ghayedi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0847",
+    "canonical_name": "Mehdi Hashemnejad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0848",
+    "canonical_name": "Mehdi Taremi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0849",
+    "canonical_name": "Mehdi Tikdari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0850",
+    "canonical_name": "Milad Mohammadi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0851",
+    "canonical_name": "Mohammad Ghorbani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0852",
+    "canonical_name": "Mohammad Mehdi Mohebi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0853",
+    "canonical_name": "Mohammad Omri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0854",
+    "canonical_name": "Mohammad Reza Akhbari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0855",
+    "canonical_name": "Omid Noorafkan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0856",
+    "canonical_name": "Payam Niazmand",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0857",
+    "canonical_name": "Saeid Ezatolahi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0858",
+    "canonical_name": "Saleh Hardani",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0859",
+    "canonical_name": "Saman Ghoddos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0860",
+    "canonical_name": "Shojae Khalilzadeh",
+    "dob": "1900-01-01",
+    "nationality_iso3": "IRN",
+    "team_id": "t40"
+  },
+  {
+    "player_id": "p0861",
+    "canonical_name": "Alban Lafont",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0862",
+    "canonical_name": "Amad Diallo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0863",
+    "canonical_name": "Armel Zohouri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0864",
+    "canonical_name": "Christ Inao Oulaï",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0865",
+    "canonical_name": "Clément Akpa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0866",
+    "canonical_name": "Emmanuel Agbadou",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0867",
+    "canonical_name": "Evan Ndicka",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0868",
+    "canonical_name": "Evann Guessand",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0869",
+    "canonical_name": "Franck Kessié",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0870",
+    "canonical_name": "Ghislain Konan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0871",
+    "canonical_name": "Guéla Doué",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0872",
+    "canonical_name": "Ibrahim Sangaré",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0873",
+    "canonical_name": "Jean- Philippe Krasso",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0874",
+    "canonical_name": "Jean-Philippe Gbamin",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0875",
+    "canonical_name": "Mario Dorgeles",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0876",
+    "canonical_name": "Mohamed Kone",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0877",
+    "canonical_name": "Odilon Kossounou",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0878",
+    "canonical_name": "Oumar Diakité",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0879",
+    "canonical_name": "Ousmane Diomande",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0880",
+    "canonical_name": "Parfait Guiagon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0881",
+    "canonical_name": "Richard Kone",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0882",
+    "canonical_name": "Sébastien Haller",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0883",
+    "canonical_name": "Seko Fofana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0884",
+    "canonical_name": "Vakoun Issouf Bayo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0885",
+    "canonical_name": "Yahia Fofana",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0886",
+    "canonical_name": "Yan Diomande",
+    "dob": "1900-01-01",
+    "nationality_iso3": "CIV",
+    "team_id": "t41"
+  },
+  {
+    "player_id": "p0887",
+    "canonical_name": "Alexander Sørloth",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0888",
+    "canonical_name": "Andreas Schjelderup",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0889",
+    "canonical_name": "Antonio Nusa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0890",
+    "canonical_name": "Aron Dønnum",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0891",
+    "canonical_name": "David Møller Wolfe",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0892",
+    "canonical_name": "Erling Haaland",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0893",
+    "canonical_name": "Fredrik André Bjørkan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0894",
+    "canonical_name": "Jørgen Strand Larsen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0895",
+    "canonical_name": "Julian Ryerson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0896",
+    "canonical_name": "Kristian Arnstad",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0897",
+    "canonical_name": "Kristian Thorstvedt",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0898",
+    "canonical_name": "Kristoffer Ajer",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0899",
+    "canonical_name": "Leo Skiri Østigård",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0900",
+    "canonical_name": "Marcus Holmgren Pedersen",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0901",
+    "canonical_name": "Mathias Dyngeland",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0902",
+    "canonical_name": "Morten Thorsby",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0903",
+    "canonical_name": "Ørjan Nyland",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0904",
+    "canonical_name": "Oscar Bobb",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0905",
+    "canonical_name": "Patrick Berg",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0906",
+    "canonical_name": "Sander Berge",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0907",
+    "canonical_name": "Sander Tangvik",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0908",
+    "canonical_name": "Sondre Langås",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0909",
+    "canonical_name": "Thelo Aasgaard",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0910",
+    "canonical_name": "Torbjørn Heggem",
+    "dob": "1900-01-01",
+    "nationality_iso3": "NOR",
+    "team_id": "t42"
+  },
+  {
+    "player_id": "p0911",
+    "canonical_name": "Adalberto Carrasquilla",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0912",
+    "canonical_name": "Alberto Quintero",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0913",
+    "canonical_name": "Andres Andrade",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0914",
+    "canonical_name": "Anibal Godoy",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0915",
+    "canonical_name": "Azarias Londono",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0916",
+    "canonical_name": "Carlos Harvey",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0917",
+    "canonical_name": "Cecilio Waterman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0918",
+    "canonical_name": "Cesar Blackman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0919",
+    "canonical_name": "Cesar Samudio",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0920",
+    "canonical_name": "Cristian Martinez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0921",
+    "canonical_name": "Edgardo Farina",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0922",
+    "canonical_name": "Edward Cedeno",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0923",
+    "canonical_name": "Eric Davis",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0924",
+    "canonical_name": "Fidel Escobar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0925",
+    "canonical_name": "Ismael Diaz",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0926",
+    "canonical_name": "Ivan Anderson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0927",
+    "canonical_name": "Jiovany Ramos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0928",
+    "canonical_name": "Jorge Gutierrez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0929",
+    "canonical_name": "Jose Fajardo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0930",
+    "canonical_name": "Jose Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0931",
+    "canonical_name": "Jovani Welch",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0932",
+    "canonical_name": "Luis Mejia",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0933",
+    "canonical_name": "Omar Browne",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0934",
+    "canonical_name": "Orlando Mosquera",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0935",
+    "canonical_name": "Tomas Rodriguez",
+    "dob": "1900-01-01",
+    "nationality_iso3": "PAN",
+    "team_id": "t43"
+  },
+  {
+    "player_id": "p0936",
+    "canonical_name": "António Silva",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0937",
+    "canonical_name": "Bernardo Silva",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0938",
+    "canonical_name": "Bruno Fernandes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0939",
+    "canonical_name": "Carlos Forbs",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0940",
+    "canonical_name": "Cristiano Ronaldo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0941",
+    "canonical_name": "Diogo Costa",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0942",
+    "canonical_name": "Diogo Dalot",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0943",
+    "canonical_name": "Francisco Conceição",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0944",
+    "canonical_name": "Francisco Trincão",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0945",
+    "canonical_name": "Gonçalo Inácio",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0946",
+    "canonical_name": "Gonçalo Ramos",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0947",
+    "canonical_name": "João Cancelo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0948",
+    "canonical_name": "João Félix",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0949",
+    "canonical_name": "João Neves",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0950",
+    "canonical_name": "João Palhinha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0951",
+    "canonical_name": "José Sá",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0952",
+    "canonical_name": "Matheus Nunes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0953",
+    "canonical_name": "Nélson Semedo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0954",
+    "canonical_name": "Rafael Leão",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0955",
+    "canonical_name": "Renato Veiga",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0956",
+    "canonical_name": "Rúben Dias",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0957",
+    "canonical_name": "Rúben Neves",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0958",
+    "canonical_name": "Rui Silva",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0959",
+    "canonical_name": "Vitinha",
+    "dob": "1900-01-01",
+    "nationality_iso3": "POR",
+    "team_id": "t44"
+  },
+  {
+    "player_id": "p0960",
+    "canonical_name": "Abdulelah Al-Amri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0961",
+    "canonical_name": "Abdullah Al- Hamdan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0962",
+    "canonical_name": "Abdullah Al-Khaibari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0963",
+    "canonical_name": "Abdulrahman Al- Aboud",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0964",
+    "canonical_name": "Abdulrahman Al- Murad Hawsawi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0965",
+    "canonical_name": "Abdulrahman Al-Sanbi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0966",
+    "canonical_name": "Ali Majrashi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0967",
+    "canonical_name": "Ayman Yahya",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0968",
+    "canonical_name": "Firas Al-Buraikan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0969",
+    "canonical_name": "Hassan Al-Tambakti",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0970",
+    "canonical_name": "Jehad Thakri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0971",
+    "canonical_name": "Mohamed Kanno",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0972",
+    "canonical_name": "Mohammed Abu Al-Shamat",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0973",
+    "canonical_name": "Mohammed Sulaiman",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0974",
+    "canonical_name": "Murad Hawsawi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0975",
+    "canonical_name": "Musab Al-Juwayr",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0976",
+    "canonical_name": "Nasser Al-Dawsari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0977",
+    "canonical_name": "Nawaf Al-Aqidi",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0978",
+    "canonical_name": "Nawaf Boushal",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0979",
+    "canonical_name": "Raghed Al-Najjar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0980",
+    "canonical_name": "Saleh Abu Al-Shamat",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0981",
+    "canonical_name": "Saleh Al-Shehri",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0982",
+    "canonical_name": "Salem Al-Dawsari",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0983",
+    "canonical_name": "Waleed Al-Ahmed",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KSA",
+    "team_id": "t45"
+  },
+  {
+    "player_id": "p0984",
+    "canonical_name": "Aaron Hickey",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0985",
+    "canonical_name": "Andy Irving",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0986",
+    "canonical_name": "Andy Robertson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0987",
+    "canonical_name": "Anthony Ralston",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0988",
+    "canonical_name": "Ben Gannon-Doak",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0989",
+    "canonical_name": "Che Adams",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0990",
+    "canonical_name": "Connor Barron",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0991",
+    "canonical_name": "Craig Gordon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0992",
+    "canonical_name": "George Hirst",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0993",
+    "canonical_name": "Grant Hanley",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0994",
+    "canonical_name": "Jack Hendry",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0995",
+    "canonical_name": "John McGinn",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0996",
+    "canonical_name": "John Souttar",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0997",
+    "canonical_name": "Josh Doig",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0998",
+    "canonical_name": "Kenny McLean",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p0999",
+    "canonical_name": "Kieran Tierney",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1000",
+    "canonical_name": "Lawrence Shankland",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1001",
+    "canonical_name": "Lewis Ferguson",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1002",
+    "canonical_name": "Liam Kelly",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1003",
+    "canonical_name": "Lyndon Dykes",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1004",
+    "canonical_name": "Ryan Christie",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1005",
+    "canonical_name": "Scott Bain",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1006",
+    "canonical_name": "Scott McKenna",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1007",
+    "canonical_name": "Scott McTominay",
+    "dob": "1900-01-01",
+    "nationality_iso3": "SCO",
+    "team_id": "t46"
+  },
+  {
+    "player_id": "p1008",
+    "canonical_name": "Bae Jun-ho",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1009",
+    "canonical_name": "Cho Gue-sung",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1010",
+    "canonical_name": "Cho Yu-min",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1011",
+    "canonical_name": "Eom Ji-sung",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1012",
+    "canonical_name": "Hwang Hee-chan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1013",
+    "canonical_name": "Jens Castrop",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1014",
+    "canonical_name": "Jo Hyeon-woo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1015",
+    "canonical_name": "Kim Jin-gyu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1016",
+    "canonical_name": "Kim Min-jae",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1017",
+    "canonical_name": "Kim Moon-hwan",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1018",
+    "canonical_name": "Kim Seung-gyu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1019",
+    "canonical_name": "Kim Tae-hyeon",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1020",
+    "canonical_name": "Kwon Hyeok-kyu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1021",
+    "canonical_name": "Lee Han-beom",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1022",
+    "canonical_name": "Lee Jae- sung",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1023",
+    "canonical_name": "Lee Kang-in",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1024",
+    "canonical_name": "Lee Myung-jae",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1025",
+    "canonical_name": "Lee Tae-seok",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1026",
+    "canonical_name": "Oh Hyeon-gyu",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1027",
+    "canonical_name": "Park Jin-seob",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1028",
+    "canonical_name": "Seo Min-woo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1029",
+    "canonical_name": "Seol Young-woo",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1030",
+    "canonical_name": "Son Heung-min",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1031",
+    "canonical_name": "Song Bum-keun",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1032",
+    "canonical_name": "Won Du-jae",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
+  },
+  {
+    "player_id": "p1033",
+    "canonical_name": "Yang Min-hyeok",
+    "dob": "1900-01-01",
+    "nationality_iso3": "KOR",
+    "team_id": "t47"
   }
 ]

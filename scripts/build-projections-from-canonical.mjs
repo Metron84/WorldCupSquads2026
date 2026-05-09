@@ -154,14 +154,17 @@ async function main() {
     const match = matchesById.get(c.match_id);
     if (!player || !match) continue;
     const key = `${c.team_id}::${c.player_id}`;
+    const heuristicPos = ["GK", "DF", "MF", "FW"][Math.abs(player.canonical_name.length) % 4];
     const prev = perTeam.get(key) || {
       team_id: c.team_id,
       player_id: c.player_id,
       player: player.canonical_name,
       position:
-        c.status === "starter" && c.minutes_played <= 5
-          ? "FW"
-          : ["GK", "DF", "MF", "FW"][Math.abs(player.canonical_name.length) % 4], // fallback deterministic assignment
+        c.squad_position_group && ["GK", "DF", "MF", "FW"].includes(c.squad_position_group)
+          ? c.squad_position_group
+          : c.status === "starter" && c.minutes_played <= 5
+            ? "FW"
+            : heuristicPos,
       capsInWindow: 0,
       startsInWindow: 0,
       minutesInWindow: 0,
@@ -169,6 +172,9 @@ async function main() {
       friendlySelections: 0,
       lastCallupDate: match.date.slice(0, 10),
     };
+    if (c.squad_position_group && ["GK", "DF", "MF", "FW"].includes(c.squad_position_group)) {
+      prev.position = c.squad_position_group;
+    }
     prev.capsInWindow += 1;
     if (c.status === "starter") prev.startsInWindow += 1;
     prev.minutesInWindow += c.minutes_played || 0;

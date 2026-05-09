@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "eslint .",
     "data:migrate": "node scripts/migrate-gemini-sources.mjs",
+    "data:ingest:wiki": "node scripts/ingest-worldcupwiki-squads.mjs",
+    "data:refresh:wiki": "node scripts/ingest-worldcupwiki-squads.mjs && npm run data:validate && npm run data:project",
     "data:validate": "node scripts/validate-canonical.mjs",
     "data:project": "node scripts/build-projections-from-canonical.mjs",
     "data:build": "node scripts/build-all.mjs"

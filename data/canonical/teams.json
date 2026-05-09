@@ -268,5 +268,167 @@
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
     "fifa_rank": 1
+  },
+  {
+    "team_id": "t31",
+    "name": "Algeria",
+    "short_name": "ALG",
+    "confederation": "CAF",
+    "qualification_method": "CAF Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 32
+  },
+  {
+    "team_id": "t32",
+    "name": "Australia",
+    "short_name": "AUS",
+    "confederation": "AFC",
+    "qualification_method": "AFC Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 24
+  },
+  {
+    "team_id": "t33",
+    "name": "Austria",
+    "short_name": "AUT",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 22
+  },
+  {
+    "team_id": "t34",
+    "name": "Belgium",
+    "short_name": "BEL",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 5
+  },
+  {
+    "team_id": "t35",
+    "name": "Croatia",
+    "short_name": "CRO",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 10
+  },
+  {
+    "team_id": "t36",
+    "name": "Czechia",
+    "short_name": "CZE",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Playoff",
+    "qualification_status": "qualified",
+    "fifa_rank": 31
+  },
+  {
+    "team_id": "t37",
+    "name": "Germany",
+    "short_name": "GER",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 9
+  },
+  {
+    "team_id": "t38",
+    "name": "Ghana",
+    "short_name": "GHA",
+    "confederation": "CAF",
+    "qualification_method": "CAF Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 68
+  },
+  {
+    "team_id": "t39",
+    "name": "England",
+    "short_name": "ENG",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 4
+  },
+  {
+    "team_id": "t40",
+    "name": "Iran",
+    "short_name": "IRN",
+    "confederation": "AFC",
+    "qualification_method": "AFC Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 21
+  },
+  {
+    "team_id": "t41",
+    "name": "Ivory Coast",
+    "short_name": "CIV",
+    "confederation": "CAF",
+    "qualification_method": "CAF Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 36
+  },
+  {
+    "team_id": "t42",
+    "name": "Norway",
+    "short_name": "NOR",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 43
+  },
+  {
+    "team_id": "t43",
+    "name": "Panama",
+    "short_name": "PAN",
+    "confederation": "CONCACAF",
+    "qualification_method": "CONCACAF Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 41
+  },
+  {
+    "team_id": "t44",
+    "name": "Portugal",
+    "short_name": "POR",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 6
+  },
+  {
+    "team_id": "t45",
+    "name": "Saudi Arabia",
+    "short_name": "KSA",
+    "confederation": "AFC",
+    "qualification_method": "AFC Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 58
+  },
+  {
+    "team_id": "t46",
+    "name": "Scotland",
+    "short_name": "SCO",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 39
+  },
+  {
+    "team_id": "t47",
+    "name": "South Korea",
+    "short_name": "KOR",
+    "confederation": "AFC",
+    "qualification_method": "AFC Qualifier",
+    "qualification_status": "qualified",
+    "fifa_rank": 23
+  },
+  {
+    "team_id": "t48",
+    "name": "Turkey",
+    "short_name": "TUR",
+    "confederation": "UEFA",
+    "qualification_method": "UEFA Playoff",
+    "qualification_status": "qualified",
+    "fifa_rank": 35
   }
 ]

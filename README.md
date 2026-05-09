@@ -58,6 +58,20 @@ This project now uses an ID-driven canonical layer derived from the Gemini input
 npm run data:migrate
 ```
 
+### Ingest WorldCupWiki-style squad PDF (non-official aggregation)
+
+Place the PDF at `data/raw/worldcupwiki-squads-2026.pdf` (committed copy) or pass a path argument. This overwrites canonical players, matches (synthetic March 2026 windows), call-ups, aliases, and availability rows derived from the PDF. Provenance: `source_id` **`worldcupwiki_squad_hub`** (Tier C).
+
+```bash
+npm run data:ingest:wiki
+# or: node scripts/ingest-worldcupwiki-squads.mjs /path/to/export.pdf
+npm run data:refresh:wiki
+```
+
+**`dob` values of `1900-01-01` in `players_master` mean “unknown / not provided by this source”** — enrich from federation or other feeds when needed.
+
+`npm run data:build` runs **validate + project** only so committed canonical data is not reset by the Gemini migrator.
+
 ### Validate canonical referential integrity
 
 ```bash

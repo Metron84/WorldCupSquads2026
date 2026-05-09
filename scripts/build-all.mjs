@@ -1,7 +1,6 @@
 import { execSync } from "node:child_process";
 
 const steps = [
-  "node scripts/migrate-gemini-sources.mjs",
   "node scripts/validate-canonical.mjs",
   "node scripts/build-projections-from-canonical.mjs",
 ];
