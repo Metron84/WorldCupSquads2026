@@ -22,10 +22,16 @@ export default function Home() {
             Read methodology
           </Link>
           <Link
-            href="/teams"
+            href="/groups"
             className="rounded-md bg-brand-600 px-3 py-2 text-sm font-medium hover:bg-brand-700"
           >
-            Browse qualified teams
+            2026 groups
+          </Link>
+          <Link
+            href="/teams"
+            className="rounded-md bg-white/10 px-3 py-2 text-sm hover:bg-white/20"
+          >
+            Browse teams
           </Link>
           <Link
             href="/coverage"

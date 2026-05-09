@@ -39,6 +39,19 @@ async function main() {
   const allowedAvailability = new Set(["available", "doubtful", "injured", "suspended", "unavailable"]);
   const allowedCompType = new Set(["qualifier", "friendly"]);
   const allowedSquadPos = new Set(["GK", "DF", "MF", "FW"]);
+  const allowedWorldCupGroups = new Set(["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]);
+
+  const groupCounts = Object.fromEntries([...allowedWorldCupGroups].map((g) => [g, 0]));
+
+  for (const t of teams) {
+    if (!t.world_cup_group || !allowedWorldCupGroups.has(t.world_cup_group)) {
+      fail(`teams.world_cup_group must be A–L for ${t.team_id}`);
+    }
+    groupCounts[t.world_cup_group] += 1;
+  }
+  for (const [g, n] of Object.entries(groupCounts)) {
+    if (n !== 4) fail(`world_cup_group ${g} must have exactly 4 teams (got ${n})`);
+  }
 
   for (const p of players) {
     if (!teamIds.has(p.team_id)) fail(`players_master.team_id missing in teams: ${p.player_id}`);

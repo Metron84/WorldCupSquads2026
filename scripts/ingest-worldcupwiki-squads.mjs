@@ -175,6 +175,7 @@ const NEW_TEAMS = [
     qualification_method: "CAF Qualifier",
     qualification_status: "qualified",
     fifa_rank: 32,
+    world_cup_group: "J",
   },
   {
     team_id: "t32",
@@ -184,6 +185,7 @@ const NEW_TEAMS = [
     qualification_method: "AFC Qualifier",
     qualification_status: "qualified",
     fifa_rank: 24,
+    world_cup_group: "D",
   },
   {
     team_id: "t33",
@@ -193,6 +195,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 22,
+    world_cup_group: "J",
   },
   {
     team_id: "t34",
@@ -202,6 +205,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 5,
+    world_cup_group: "G",
   },
   {
     team_id: "t35",
@@ -211,6 +215,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 10,
+    world_cup_group: "L",
   },
   {
     team_id: "t36",
@@ -220,6 +225,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Playoff",
     qualification_status: "qualified",
     fifa_rank: 31,
+    world_cup_group: "A",
   },
   {
     team_id: "t37",
@@ -229,6 +235,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 9,
+    world_cup_group: "E",
   },
   {
     team_id: "t38",
@@ -238,6 +245,7 @@ const NEW_TEAMS = [
     qualification_method: "CAF Qualifier",
     qualification_status: "qualified",
     fifa_rank: 68,
+    world_cup_group: "L",
   },
   {
     team_id: "t39",
@@ -247,6 +255,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 4,
+    world_cup_group: "L",
   },
   {
     team_id: "t40",
@@ -256,6 +265,7 @@ const NEW_TEAMS = [
     qualification_method: "AFC Qualifier",
     qualification_status: "qualified",
     fifa_rank: 21,
+    world_cup_group: "G",
   },
   {
     team_id: "t41",
@@ -265,6 +275,7 @@ const NEW_TEAMS = [
     qualification_method: "CAF Qualifier",
     qualification_status: "qualified",
     fifa_rank: 36,
+    world_cup_group: "E",
   },
   {
     team_id: "t42",
@@ -274,6 +285,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 43,
+    world_cup_group: "I",
   },
   {
     team_id: "t43",
@@ -283,6 +295,7 @@ const NEW_TEAMS = [
     qualification_method: "CONCACAF Qualifier",
     qualification_status: "qualified",
     fifa_rank: 41,
+    world_cup_group: "L",
   },
   {
     team_id: "t44",
@@ -292,6 +305,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 6,
+    world_cup_group: "K",
   },
   {
     team_id: "t45",
@@ -301,6 +315,7 @@ const NEW_TEAMS = [
     qualification_method: "AFC Qualifier",
     qualification_status: "qualified",
     fifa_rank: 58,
+    world_cup_group: "H",
   },
   {
     team_id: "t46",
@@ -310,6 +325,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Qualifier",
     qualification_status: "qualified",
     fifa_rank: 39,
+    world_cup_group: "C",
   },
   {
     team_id: "t47",
@@ -319,6 +335,7 @@ const NEW_TEAMS = [
     qualification_method: "AFC Qualifier",
     qualification_status: "qualified",
     fifa_rank: 23,
+    world_cup_group: "A",
   },
   {
     team_id: "t48",
@@ -328,6 +345,7 @@ const NEW_TEAMS = [
     qualification_method: "UEFA Playoff",
     qualification_status: "qualified",
     fifa_rank: 35,
+    world_cup_group: "D",
   },
 ];
 

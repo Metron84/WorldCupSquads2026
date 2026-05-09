@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PlayerTable } from "@/components/PlayerTable";
-import { getProjectionBySlug, getProjections } from "@/lib/data";
+import { getCanonicalTeamBySlug, getProjectionBySlug, getProjections } from "@/lib/data";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -17,16 +17,31 @@ export default async function TeamPage({ params }: Props) {
   const { slug } = await params;
   const team = getProjectionBySlug(slug);
   if (!team) notFound();
+  const meta = getCanonicalTeamBySlug(slug);
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-      <Link href="/teams" className="text-sm text-brand-700 hover:underline">
-        ← Back to teams
-      </Link>
+      <div className="flex flex-wrap gap-4 text-sm text-brand-700">
+        <Link href="/teams" className="hover:underline">
+          ← Back to teams
+        </Link>
+        <Link href="/groups" className="hover:underline">
+          All groups
+        </Link>
+      </div>
       <header className="mt-3 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
         <h1 className="text-3xl font-bold text-slate-900">{team.team}</h1>
         <p className="mt-1 text-sm text-slate-600">
           {team.confederation} • {team.qualifiedVia}
+          {meta ? (
+            <>
+              {" "}
+              •{" "}
+              <Link href="/groups" className="font-medium text-brand-700 hover:underline">
+                Group {meta.world_cup_group}
+              </Link>
+            </>
+          ) : null}
         </p>
         <p className="mt-2 text-xs text-slate-500">
           Last model update: {team.updatedAt}. This is a projected pool, not an official squad.

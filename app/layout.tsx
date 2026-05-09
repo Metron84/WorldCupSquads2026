@@ -31,6 +31,9 @@ export default function RootLayout({
               World Cup Squads
             </Link>
             <div className="flex items-center gap-4 text-sm">
+              <Link href="/groups" className="text-slate-700 hover:text-slate-900">
+                Groups
+              </Link>
               <Link href="/teams" className="text-slate-700 hover:text-slate-900">
                 Teams
               </Link>

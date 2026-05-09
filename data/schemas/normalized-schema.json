@@ -15,9 +15,14 @@
         },
         "qualification_method": { "type": "string" },
         "qualification_status": { "type": "string", "enum": ["qualified", "tracked"] },
-        "fifa_rank": { "type": "integer" }
+        "fifa_rank": { "type": "integer" },
+        "world_cup_group": {
+          "type": "string",
+          "enum": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"],
+          "description": "2026 FIFA World Cup group stage (official draw)."
+        }
       },
-      "required": ["team_id", "name", "confederation", "qualification_method"]
+      "required": ["team_id", "name", "confederation", "qualification_method", "world_cup_group"]
     },
     "players_master": {
       "type": "object",

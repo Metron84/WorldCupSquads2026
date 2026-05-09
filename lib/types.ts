@@ -80,6 +80,18 @@ export type TeamProjection = {
   longshots: ProjectedPlayer[];
 };
 
+/** Row from `data/canonical/teams.json` (includes 2026 group stage assignment). */
+export type CanonicalTeamRow = {
+  team_id: string;
+  name: string;
+  short_name: string;
+  confederation: string;
+  qualification_method: string;
+  qualification_status: string;
+  fifa_rank: number;
+  world_cup_group: string;
+};
+
 export type CompletenessReportRow = {
   team: string;
   confederation: string;

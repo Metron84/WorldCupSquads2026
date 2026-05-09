@@ -8,7 +8,7 @@ Base schema source:
 - `gemini-code-1778318603266.json`
 
 Project extensions:
-- `qualification_status` in `teams`
+- `qualification_status` and `world_cup_group` (`A`–`L`) in `teams`
 - `competition_type`, `source_tier`, and optional `source_id` in `matches`
 - `projected_squad_date`, optional `source_id`, and optional `squad_position_group` (`GK`|`DF`|`MF`|`FW`) in `callups_or_appearances`
 - `status` in `availability_overrides`

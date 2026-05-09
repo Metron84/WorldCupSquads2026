@@ -6,7 +6,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "Host",
     "qualification_status": "qualified",
-    "fifa_rank": 15
+    "fifa_rank": 15,
+    "world_cup_group": "A"
   },
   {
     "team_id": "t02",
@@ -15,7 +16,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 60
+    "fifa_rank": 60,
+    "world_cup_group": "A"
   },
   {
     "team_id": "t03",
@@ -24,7 +26,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "Host",
     "qualification_status": "qualified",
-    "fifa_rank": 30
+    "fifa_rank": 30,
+    "world_cup_group": "B"
   },
   {
     "team_id": "t04",
@@ -33,7 +36,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 19
+    "fifa_rank": 19,
+    "world_cup_group": "B"
   },
   {
     "team_id": "t05",
@@ -42,7 +46,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 53
+    "fifa_rank": 53,
+    "world_cup_group": "B"
   },
   {
     "team_id": "t06",
@@ -51,7 +56,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 71
+    "fifa_rank": 71,
+    "world_cup_group": "B"
   },
   {
     "team_id": "t07",
@@ -60,7 +66,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 37
+    "fifa_rank": 37,
+    "world_cup_group": "F"
   },
   {
     "team_id": "t08",
@@ -69,7 +76,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 7
+    "fifa_rank": 7,
+    "world_cup_group": "F"
   },
   {
     "team_id": "t09",
@@ -78,7 +86,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 18
+    "fifa_rank": 18,
+    "world_cup_group": "F"
   },
   {
     "team_id": "t10",
@@ -87,7 +96,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 47
+    "fifa_rank": 47,
+    "world_cup_group": "F"
   },
   {
     "team_id": "t11",
@@ -96,7 +106,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "Host",
     "qualification_status": "qualified",
-    "fifa_rank": 16
+    "fifa_rank": 16,
+    "world_cup_group": "D"
   },
   {
     "team_id": "t12",
@@ -105,7 +116,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "CONCACAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 81
+    "fifa_rank": 81,
+    "world_cup_group": "E"
   },
   {
     "team_id": "t13",
@@ -114,7 +126,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "CONCACAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 79
+    "fifa_rank": 79,
+    "world_cup_group": "C"
   },
   {
     "team_id": "t14",
@@ -123,7 +136,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 57
+    "fifa_rank": 57,
+    "world_cup_group": "K"
   },
   {
     "team_id": "t15",
@@ -132,7 +146,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 64
+    "fifa_rank": 64,
+    "world_cup_group": "J"
   },
   {
     "team_id": "t16",
@@ -141,7 +156,8 @@
     "confederation": "AFC",
     "qualification_method": "Inter-conf. Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 56
+    "fifa_rank": 56,
+    "world_cup_group": "I"
   },
   {
     "team_id": "t17",
@@ -150,7 +166,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 3
+    "fifa_rank": 3,
+    "world_cup_group": "J"
   },
   {
     "team_id": "t18",
@@ -159,7 +176,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 6
+    "fifa_rank": 6,
+    "world_cup_group": "C"
   },
   {
     "team_id": "t19",
@@ -168,7 +186,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 17
+    "fifa_rank": 17,
+    "world_cup_group": "H"
   },
   {
     "team_id": "t20",
@@ -177,7 +196,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 13
+    "fifa_rank": 13,
+    "world_cup_group": "K"
   },
   {
     "team_id": "t21",
@@ -186,7 +206,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 23
+    "fifa_rank": 23,
+    "world_cup_group": "E"
   },
   {
     "team_id": "t22",
@@ -195,7 +216,8 @@
     "confederation": "CONMEBOL",
     "qualification_method": "CONMEBOL Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 38
+    "fifa_rank": 38,
+    "world_cup_group": "D"
   },
   {
     "team_id": "t23",
@@ -204,7 +226,8 @@
     "confederation": "OFC",
     "qualification_method": "OFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 88
+    "fifa_rank": 88,
+    "world_cup_group": "G"
   },
   {
     "team_id": "t24",
@@ -213,7 +236,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 8
+    "fifa_rank": 8,
+    "world_cup_group": "C"
   },
   {
     "team_id": "t25",
@@ -222,7 +246,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 14
+    "fifa_rank": 14,
+    "world_cup_group": "I"
   },
   {
     "team_id": "t26",
@@ -231,7 +256,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 33
+    "fifa_rank": 33,
+    "world_cup_group": "G"
   },
   {
     "team_id": "t27",
@@ -240,7 +266,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 70
+    "fifa_rank": 70,
+    "world_cup_group": "H"
   },
   {
     "team_id": "t28",
@@ -249,7 +276,8 @@
     "confederation": "CAF",
     "qualification_method": "Inter-conf. Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 55
+    "fifa_rank": 55,
+    "world_cup_group": "K"
   },
   {
     "team_id": "t29",
@@ -258,7 +286,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 2
+    "fifa_rank": 2,
+    "world_cup_group": "H"
   },
   {
     "team_id": "t30",
@@ -267,7 +296,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 1
+    "fifa_rank": 1,
+    "world_cup_group": "I"
   },
   {
     "team_id": "t31",
@@ -276,7 +306,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 32
+    "fifa_rank": 32,
+    "world_cup_group": "J"
   },
   {
     "team_id": "t32",
@@ -285,7 +316,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 24
+    "fifa_rank": 24,
+    "world_cup_group": "D"
   },
   {
     "team_id": "t33",
@@ -294,7 +326,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 22
+    "fifa_rank": 22,
+    "world_cup_group": "J"
   },
   {
     "team_id": "t34",
@@ -303,7 +336,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 5
+    "fifa_rank": 5,
+    "world_cup_group": "G"
   },
   {
     "team_id": "t35",
@@ -312,7 +346,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 10
+    "fifa_rank": 10,
+    "world_cup_group": "L"
   },
   {
     "team_id": "t36",
@@ -321,7 +356,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 31
+    "fifa_rank": 31,
+    "world_cup_group": "A"
   },
   {
     "team_id": "t37",
@@ -330,7 +366,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 9
+    "fifa_rank": 9,
+    "world_cup_group": "E"
   },
   {
     "team_id": "t38",
@@ -339,7 +376,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 68
+    "fifa_rank": 68,
+    "world_cup_group": "L"
   },
   {
     "team_id": "t39",
@@ -348,7 +386,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 4
+    "fifa_rank": 4,
+    "world_cup_group": "L"
   },
   {
     "team_id": "t40",
@@ -357,7 +396,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 21
+    "fifa_rank": 21,
+    "world_cup_group": "G"
   },
   {
     "team_id": "t41",
@@ -366,7 +406,8 @@
     "confederation": "CAF",
     "qualification_method": "CAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 36
+    "fifa_rank": 36,
+    "world_cup_group": "E"
   },
   {
     "team_id": "t42",
@@ -375,7 +416,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 43
+    "fifa_rank": 43,
+    "world_cup_group": "I"
   },
   {
     "team_id": "t43",
@@ -384,7 +426,8 @@
     "confederation": "CONCACAF",
     "qualification_method": "CONCACAF Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 41
+    "fifa_rank": 41,
+    "world_cup_group": "L"
   },
   {
     "team_id": "t44",
@@ -393,7 +436,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 6
+    "fifa_rank": 6,
+    "world_cup_group": "K"
   },
   {
     "team_id": "t45",
@@ -402,7 +446,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 58
+    "fifa_rank": 58,
+    "world_cup_group": "H"
   },
   {
     "team_id": "t46",
@@ -411,7 +456,8 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 39
+    "fifa_rank": 39,
+    "world_cup_group": "C"
   },
   {
     "team_id": "t47",
@@ -420,7 +466,8 @@
     "confederation": "AFC",
     "qualification_method": "AFC Qualifier",
     "qualification_status": "qualified",
-    "fifa_rank": 23
+    "fifa_rank": 23,
+    "world_cup_group": "A"
   },
   {
     "team_id": "t48",
@@ -429,6 +476,7 @@
     "confederation": "UEFA",
     "qualification_method": "UEFA Playoff",
     "qualification_status": "qualified",
-    "fifa_rank": 35
+    "fifa_rank": 35,
+    "world_cup_group": "D"
   }
 ]

@@ -24,6 +24,11 @@ Open `http://localhost:3000`.
 
 This project now uses an ID-driven canonical layer derived from the Gemini inputs.
 
+### World Cup 2026 groups
+
+- Official draw groups **A–L** live on each row as `world_cup_group` in `teams.json` (validated: exactly four teams per letter).
+- Browse in the app at **`/groups`** (story tags HOST / PLAYOFF / DEBUT / RETURN are editorial labels from `lib/world-cup-groups.ts`).
+
 ### Canonical tables (`data/canonical`)
 
 - `teams.json`

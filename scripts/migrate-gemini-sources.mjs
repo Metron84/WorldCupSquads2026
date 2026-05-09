@@ -71,6 +71,14 @@ async function main() {
     readJson(SRC.overrides),
   ]);
 
+  let prevTeamsById = new Map();
+  try {
+    const prevRaw = JSON.parse(await fs.readFile(path.join(CANONICAL_DIR, "teams.json"), "utf-8"));
+    prevTeamsById = new Map(prevRaw.map((row) => [row.team_id, row]));
+  } catch {
+    /* no existing canonical teams */
+  }
+
   const teams = teamsRaw.map((t) => ({
     team_id: t.team_id,
     name: t.name,
@@ -79,6 +87,7 @@ async function main() {
     qualification_method: t.qualification_method,
     qualification_status: "qualified",
     fifa_rank: t.fifa_rank,
+    world_cup_group: prevTeamsById.get(t.team_id)?.world_cup_group,
   }));
   const teamMap = new Map(teams.map((t) => [t.team_id, t]));
 
