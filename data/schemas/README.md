@@ -9,9 +9,12 @@ Base schema source:
 
 Project extensions:
 - `qualification_status` in `teams`
-- `competition_type` and `source_tier` in `matches`
-- `projected_squad_date` in `callups_or_appearances`
+- `competition_type`, `source_tier`, and optional `source_id` in `matches`
+- `projected_squad_date` and optional `source_id` in `callups_or_appearances`
 - `status` in `availability_overrides`
+
+Source allowlist:
+- `data/sources/sources.json` enumerates allowed `source_id` values and tier/weight metadata.
 
 ## Enum definitions
 
@@ -26,7 +29,8 @@ Project extensions:
 ## Field intent
 
 - `projected_squad_date`: timestamp-style marker for editorial separation between projected and confirmed squads.
-- `source_tier`: source confidence category used to apply confidence penalties in team evidence scoring.
+- `source_tier`: legacy match-level quality band (gold/silver/bronze/fallback) retained for pipeline compatibility.
+- `source_id`: references an entry in `data/sources/sources.json`; drives **sourcesAuthorityMultiplier** in projections (conservative `min` across observed rows).
 
 ## Referential integrity
 

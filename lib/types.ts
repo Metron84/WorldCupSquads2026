@@ -65,6 +65,13 @@ export type TeamProjection = {
     friendlyMatchesUsed: number;
     dateRangeUsed: string;
     confidenceLevel: ConfidenceLevel;
+    /** Confederation sampling adjustment (legacy coverage band). */
+    confederationMultiplier?: number;
+    /** min(confidence_weight) from data/sources/sources.json for lineage on this team. */
+    sourcesAuthorityMultiplier?: number;
+    /** Distinct source_id values observed on call-ups (row or parent match). */
+    sourceIdsObserved?: string[];
+    /** Product of confederation × sources authority — backward-compatible combined penalty. */
     sourcePenaltyMultiplier?: number;
     coverageWarnings: string[];
   };
@@ -81,6 +88,9 @@ export type CompletenessReportRow = {
   friendlyMatchesUsed: number;
   dateRangeUsed: string;
   confidenceLevel: ConfidenceLevel;
+  confederationMultiplier?: number;
+  sourcesAuthorityMultiplier?: number;
+  sourceIdsObserved?: string[];
   sourcePenaltyMultiplier?: number;
   coverageWarnings: string[];
 };

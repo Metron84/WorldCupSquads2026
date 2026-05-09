@@ -1,0 +1,135 @@
+{
+  "manifest_version": 1,
+  "description": "Allowlist of ingestion sources mapped to canonical source_id. Use callups.source_id or matches.source_id; weights apply conservatively via min(weight) per team.",
+  "updated": "2026-05-09",
+  "tier_definitions": {
+    "A": "Primary authority — FIFA, federations, or official competition match reports.",
+    "B": "Strong secondary — licensed data feeds, broadly used aggregation with editorial standards, match-day feeds.",
+    "C": "Broad coverage / community — wiki-style or independent round-ups; validate against Tier A/B when possible."
+  },
+  "sources": [
+    {
+      "source_id": "fifa_tournament_materials",
+      "tier": "A",
+      "kind": "federations_overview",
+      "name": "FIFA tournament hub & published squad disclosures",
+      "homepage_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "confidence_weight": 1,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Use when federations lodge preliminary or final lists as published by FIFA."
+      ]
+    },
+    {
+      "source_id": "national_association_release",
+      "tier": "A",
+      "kind": "federations_overview",
+      "name": "National FA / federation press releases and PDF squad lists",
+      "homepage_url": "https://www.fifa.com/nationalteams/",
+      "confidence_weight": 0.98,
+      "access_mode": "manual_pdf",
+      "ingestion_notes": [
+        "Prefer the canonical spelling from the federation document."
+      ]
+    },
+    {
+      "source_id": "confederation_match_report",
+      "tier": "A",
+      "kind": "match_report",
+      "name": "Confederation-official competition match centres (lineups/benches)",
+      "homepage_url": "https://www.fifa.com/",
+      "confidence_weight": 0.96,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Strong evidence that a player was selected for that match window.",
+        "Map each row to matches.competition_type and stage."
+      ]
+    },
+    {
+      "source_id": "commercial_sports_data_api",
+      "tier": "B",
+      "kind": "data_vendor",
+      "name": "Licensed football data APIs (e.g. industry feed providers)",
+      "homepage_url": "https://www.statsperform.com/",
+      "confidence_weight": 0.94,
+      "access_mode": "api_license",
+      "ingestion_notes": [
+        "Requires contract/Terms acceptance; preferable for repeatable builds."
+      ]
+    },
+    {
+      "source_id": "transfermarkt_national_team",
+      "tier": "B",
+      "kind": "aggregator",
+      "name": "Transfermarkt national team / call-up oriented pages",
+      "homepage_url": "https://www.transfermarkt.com/",
+      "confidence_weight": 0.9,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Good breadth; normalize names toward federation spelling before linking players."
+      ]
+    },
+    {
+      "source_id": "sofascope_match_feed",
+      "tier": "B",
+      "kind": "match_report",
+      "name": "Public match-day lineup apps / sites (generic bucket — SofaScore, FotMob, etc.)",
+      "homepage_url": "https://www.sofascore.com/",
+      "confidence_weight": 0.88,
+      "access_mode": "api_license",
+      "ingestion_notes": [
+        "Use official ToS-compliant access; corroborate against FA where stakes are high.",
+        "Sofascore URL is representative — swap access_mode when using another vendor under license."
+      ]
+    },
+    {
+      "source_id": "broadcast_major_outlet_copy",
+      "tier": "B",
+      "kind": "broadcaster",
+      "name": "Major wire or broadcaster when reproducing a federation announcement",
+      "homepage_url": "https://www.reuters.com/sports/soccer/",
+      "confidence_weight": 0.92,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Treat as secondary to the federation primary; cite the FA URL in notes when known."
+      ]
+    },
+    {
+      "source_id": "worldcupwiki_squad_hub",
+      "tier": "C",
+      "kind": "aggregator",
+      "name": "WorldCupWiki — World Cup 2026 squads hub page",
+      "homepage_url": "https://worldcupwiki.com/world-cup-2026-squads/",
+      "confidence_weight": 0.82,
+      "access_mode": "scrape_with_consent",
+      "ingestion_notes": [
+        "Useful breadth; incomplete for some nations; confirm ToS/automation constraints.",
+        "Cross-check provisional vs final statuses before presenting as authoritative."
+      ]
+    },
+    {
+      "source_id": "wikipedia_wc2026_squads",
+      "tier": "C",
+      "kind": "encyclopedia",
+      "name": "Wikipedia — 2026 FIFA World Cup squads (or predecessor navbox pages)",
+      "homepage_url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "confidence_weight": 0.76,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Extract only sourced rows; migrate with low confidence_weight and manual QA."
+      ]
+    },
+    {
+      "source_id": "fan_forum_aggregate",
+      "tier": "C",
+      "kind": "aggregator",
+      "name": "Crowdsourced / forum spreadsheets (explicitly flagged)",
+      "homepage_url": "",
+      "confidence_weight": 0.65,
+      "access_mode": "browser_manual",
+      "ingestion_notes": [
+        "Last resort filler; isolate in review queue — never lone evidence for contentious names."
+      ]
+    }
+  ]
+}

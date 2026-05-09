@@ -58,7 +58,11 @@
         "group_name": { "type": ["string", "null"] },
         "status": { "type": "string", "enum": ["scheduled", "in_progress", "completed"] },
         "competition_type": { "type": "string", "enum": ["qualifier", "friendly"] },
-        "source_tier": { "type": "string", "enum": ["gold", "silver", "bronze", "fallback"] }
+        "source_tier": { "type": "string", "enum": ["gold", "silver", "bronze", "fallback"] },
+        "source_id": {
+          "type": "string",
+          "description": "Optional key into data/sources/sources.json (lineage for fixtures ingested together)."
+        }
       },
       "required": ["match_id", "date", "home_team_id", "away_team_id", "stage", "status"]
     },
@@ -71,7 +75,11 @@
         "team_id": { "type": "string" },
         "status": { "type": "string", "enum": ["starter", "substitute", "bench", "withdrawn"] },
         "minutes_played": { "type": "integer" },
-        "projected_squad_date": { "type": "string" }
+        "projected_squad_date": { "type": "string" },
+        "source_id": {
+          "type": "string",
+          "description": "Optional override of matches.source_id for this call-up row; must exist in data/sources/sources.json when set."
+        }
       },
       "required": ["record_id", "player_id", "match_id", "team_id", "status"]
     },

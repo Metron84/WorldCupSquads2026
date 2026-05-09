@@ -4,6 +4,7 @@ import path from "node:path";
 const ROOT = process.cwd();
 const C = path.join(ROOT, "data", "canonical");
 const G = path.join(ROOT, "data", "generated");
+const SOURCES = path.join(ROOT, "data", "sources", "sources.json");
 const TODAY = new Date("2026-05-09T00:00:00.000Z");
 const POSITION_TARGETS = { GK: 3, DF: 9, MF: 8, FW: 6 };
 const AVAIL = { available: 1.0, doubtful: 0.82, injured: 0.15, suspended: 0.1, unavailable: 0.0 };
@@ -70,15 +71,31 @@ function availabilityForPlayer(playerId, overrides) {
   return { status: sorted[0].status, reason: sorted[0].reason };
 }
 
-function confidenceLevel(playersObserved, qualMatches, friendlyMatches, confedMultiplier) {
+function confidenceLevel(
+  playersObserved,
+  qualMatches,
+  friendlyMatches,
+  confedMultiplier,
+  sourcesAuthorityMultiplier = 1,
+) {
   const base =
     (Math.min(playersObserved, 45) / 45) * 0.5 +
     (Math.min(qualMatches, 12) / 12) * 0.35 +
     (Math.min(friendlyMatches, 6) / 6) * 0.15;
-  const adjusted = base * confedMultiplier;
+  const adjusted = base * confedMultiplier * sourcesAuthorityMultiplier;
   if (adjusted >= 0.8) return "high";
   if (adjusted >= 0.62) return "medium";
   return "low";
+}
+
+async function loadSourcesManifest() {
+  const raw = JSON.parse(await fs.readFile(SOURCES, "utf-8"));
+  if (!Array.isArray(raw.sources)) throw new Error("sources.json missing sources array");
+  const byId = new Map();
+  for (const s of raw.sources) {
+    if (s.source_id) byId.set(s.source_id, s);
+  }
+  return { byId };
 }
 
 async function read(name) {
@@ -86,6 +103,7 @@ async function read(name) {
 }
 
 async function main() {
+  const { byId: sourcesById } = await loadSourcesManifest();
   const [teams, players, aliases, matches, callups, overrides] = await Promise.all([
     read("teams.json"),
     read("players_master.json"),
@@ -227,19 +245,52 @@ async function main() {
     const dateRangeUsed = dates.length ? `${dates[0].slice(0, 10)} -> ${dates[dates.length - 1].slice(0, 10)}` : "n/a";
     const playersObserved = rows.length;
     const confedMultiplier = CONFED_PENALTY[team.confederation] ?? 0.9;
-    const conf = confidenceLevel(playersObserved, qualifierMatchesUsed, friendlyMatchesUsed, confedMultiplier);
+
+    const teamCallupRowsForLineage = callups.filter((c) => c.team_id === team.team_id);
+    const lineageIds = new Set();
+    const lineageWeights = [];
+    for (const c of teamCallupRowsForLineage) {
+      const md = matchesById.get(c.match_id);
+      const sid = c.source_id ?? md?.source_id;
+      if (!sid) continue;
+      lineageIds.add(sid);
+      const meta = sourcesById.get(sid);
+      if (meta && typeof meta.confidence_weight === "number") lineageWeights.push(meta.confidence_weight);
+    }
+    const sourcesAuthorityMultiplier = lineageWeights.length ? Math.min(...lineageWeights) : 1;
+    const sourceIdsObserved = [...lineageIds].sort();
+
+    const conf = confidenceLevel(
+      playersObserved,
+      qualifierMatchesUsed,
+      friendlyMatchesUsed,
+      confedMultiplier,
+      sourcesAuthorityMultiplier,
+    );
     const warnings = [];
     if (playersObserved < 30) warnings.push("Small observed player universe (<30).");
     if (qualifierMatchesUsed < 8) warnings.push("Low qualifier sample (<8).");
     if (friendlyMatchesUsed < 2) warnings.push("Low friendly sample (<2).");
+    if (
+      sourceIdsObserved.some((id) => sourcesById.get(id)?.tier === "C") &&
+      !sourceIdsObserved.some((id) => ["A", "B"].includes(sourcesById.get(id)?.tier))
+    ) {
+      warnings.push("Observed sources are Tier C only — add federation/match-report lineage when available.");
+    } else if (sourceIdsObserved.some((id) => sourcesById.get(id)?.tier === "C")) {
+      warnings.push("Includes Tier C (wiki/aggregator) sources — corroborate with federation or match-report data.");
+    }
 
+    const combinedCoverageMultiplier = confedMultiplier * sourcesAuthorityMultiplier;
     const evidence = {
       playersObserved,
       qualifierMatchesUsed,
       friendlyMatchesUsed,
       dateRangeUsed,
       confidenceLevel: conf,
-      sourcePenaltyMultiplier: confedMultiplier,
+      confederationMultiplier: confedMultiplier,
+      sourcesAuthorityMultiplier,
+      sourceIdsObserved,
+      sourcePenaltyMultiplier: combinedCoverageMultiplier,
       coverageWarnings: warnings,
     };
 
@@ -251,7 +302,10 @@ async function main() {
       friendlyMatchesUsed,
       dateRangeUsed,
       confidenceLevel: conf,
-      sourcePenaltyMultiplier: confedMultiplier,
+      confederationMultiplier: confedMultiplier,
+      sourcesAuthorityMultiplier,
+      sourceIdsObserved,
+      sourcePenaltyMultiplier: combinedCoverageMultiplier,
       coverageWarnings: warnings,
     });
 
@@ -274,7 +328,9 @@ async function main() {
     fs.writeFile(path.join(G, "completeness_report.json"), JSON.stringify(completenessReport, null, 2)),
     fs.writeFile(path.join(G, "projections.json"), JSON.stringify(projections, null, 2)),
   ]);
-  console.log(`Built projections from canonical tables for ${projections.length} teams.`);
+  console.log(
+    `Built projections from canonical tables for ${projections.length} teams (${sourcesById.size} sources in allowlist).`,
+  );
 }
 
 main().catch((err) => {

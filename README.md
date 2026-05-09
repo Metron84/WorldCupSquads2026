@@ -33,6 +33,11 @@ This project now uses an ID-driven canonical layer derived from the Gemini input
 - `callups_or_appearances.json`
 - `availability_overrides.json`
 
+### Source allowlist (`data/sources`)
+
+- `sources.json` — tier **A/B/C** feeds (`source_id`) with `confidence_weight` for conservative team-level scoring
+- `README.md` — how to attach `matches.source_id` / `callups_or_appearances.source_id`
+
 ### Schema docs (`data/schemas`)
 
 - `normalized-schema.json` - schema definition and enums
@@ -93,7 +98,7 @@ Then remaining players are tiered to `bubble` and `longshot`.
 
 ## Confidence framework
 
-Each team receives a confidence level:
+Each team receives a confidence level derived from observed players, qualifier/friendly match counts, confederation tuning, **and** the minimum `confidence_weight` among any **`source_id`** present on relevant call-ups (see `data/sources/sources.json`). Rows without `source_id` incur no lineage penalty (`1.0`).
 
 - **high**: strong match/sample coverage
 - **medium**: adequate but partial
