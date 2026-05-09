@@ -12,7 +12,8 @@
     "data:refresh:wiki": "node scripts/ingest-worldcupwiki-squads.mjs && npm run data:validate && npm run data:project",
     "data:validate": "node scripts/validate-canonical.mjs",
     "data:project": "node scripts/build-projections-from-canonical.mjs",
-    "data:build": "node scripts/build-all.mjs"
+    "data:build": "node scripts/build-all.mjs",
+    "data:wcq:export": "python3 scripts/fbref_wc2026_stats/export_wcq_json.py"
   },
   "dependencies": {
     "next": "^15.5.18",

@@ -29,6 +29,14 @@ export type RawCallupRow = {
   date: string;
 };
 
+/** FBref-style WC / WCQ standard stats when merged from `wcq_qualifying_stats.json`. */
+export type WcqPlayerStats = {
+  mp: number;
+  minutes: number;
+  goals: number;
+  assists: number;
+};
+
 export type ProjectedPlayer = {
   team?: string;
   player: string;
@@ -41,6 +49,8 @@ export type ProjectedPlayer = {
   friendlySelections: number;
   lastCallupDate: string;
   tier: SquadTier;
+  /** World Cup qualifying (or confederation WCQ competition) totals from FBref export when matched. */
+  wcq?: WcqPlayerStats;
   availabilityStatus?: AvailabilityStatus;
   availabilityReason?: string;
   scoreBreakdown?: {

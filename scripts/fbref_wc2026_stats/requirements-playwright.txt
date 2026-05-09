@@ -1,0 +1,5 @@
+# Optional: fetch FBref pages with Chromium when HTTP 403 blocks requests.
+# pip install -r requirements-playwright.txt
+# playwright install chromium
+
+playwright>=1.49.0

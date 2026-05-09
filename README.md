@@ -54,6 +54,7 @@ This project now uses an ID-driven canonical layer derived from the Gemini input
 - `completeness_report.json` - confidence and coverage warnings
 - `identity_review_queue.json` - alias/name records needing manual review
 - `migration_report.json` - canonical migration counts
+- `wcq_qualifying_stats.json` - optional FBref WCQ totals per nation (`by_team_slug`) for **WCQ MP / Min / goals / assists** on team pages (see below)
 
 ## Data pipeline commands
 
@@ -95,9 +96,17 @@ npm run data:project
 npm run data:build
 ```
 
-### Optional: FBref → Excel (player minutes / goals by confederation)
+### Optional: FBref → Excel → WCQ columns in the app
 
-Python virtualenv and `scripts/fbref_wc2026_stats/` — see that folder’s `README.md`. Produces `WC2026_Player_Stats.xlsx` (not part of the Next.js build). FBref may return HTTP 403 from some networks; run locally if needed.
+1. Python virtualenv and `scripts/fbref_wc2026_stats/` — see that folder’s `README.md`. Produces `WC2026_Player_Stats.xlsx` (not part of the Next.js build). FBref may return HTTP 403 from some networks; run locally if needed.
+
+2. Export JSON for the Next app (requires `pandas` + `openpyxl`, same venv as the scraper):
+
+```bash
+npm run data:wcq:export
+```
+
+This writes `data/generated/wcq_qualifying_stats.json` from the WCQ sheets (`UEFA`, `CONMEBOL`, …). Team pages merge rows onto projected players by **nation name → slug** (same as URLs) and **player name** (exact / fuzzy match to FBref `Player`). Re-run after refreshing the workbook.
 
 ## Scoring logic
 

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PlayerTable } from "@/components/PlayerTable";
 import { getCanonicalTeamBySlug, getProjectionBySlug, getProjections } from "@/lib/data";
+import { getWcqMeta, mergeWcqIntoProjection, teamHasWcqRows } from "@/lib/wcq-stats";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -15,9 +16,11 @@ export function generateStaticParams() {
 
 export default async function TeamPage({ params }: Props) {
   const { slug } = await params;
-  const team = getProjectionBySlug(slug);
-  if (!team) notFound();
+  const raw = getProjectionBySlug(slug);
+  if (!raw) notFound();
+  const team = mergeWcqIntoProjection(raw);
   const meta = getCanonicalTeamBySlug(slug);
+  const wcqMeta = getWcqMeta();
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
@@ -45,6 +48,14 @@ export default async function TeamPage({ params }: Props) {
         </p>
         <p className="mt-2 text-xs text-slate-500">
           Last model update: {team.updatedAt}. This is a projected pool, not an official squad.
+          {teamHasWcqRows(team.team) ? (
+            <>
+              {" "}
+              WCQ columns (when shown) come from FBref WCQ competition totals; matched to names when{" "}
+              <code className="rounded bg-slate-100 px-1">wcq_qualifying_stats.json</code> is populated
+              {wcqMeta.updatedAt ? ` (export ${wcqMeta.updatedAt})` : ""}.
+            </>
+          ) : null}
         </p>
         <div className="mt-3 grid gap-2 text-xs text-slate-600 sm:grid-cols-3">
           <p>Players observed: {team.evidence.playersObserved}</p>

@@ -40,6 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Python
+__pycache__/
+*.py[cod]
+
 # Python FBref scraper venv + generated workbook
 /scripts/fbref_wc2026_stats/.venv/
 /scripts/fbref_wc2026_stats/WC2026_Player_Stats.xlsx
+/scripts/fbref_wc2026_stats/fbref_cookie.txt
