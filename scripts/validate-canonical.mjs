@@ -9,15 +9,15 @@ async function read(name) {
   return JSON.parse(await fs.readFile(path.join(C, name), "utf-8"));
 }
 
+function fail(msg) {
+  console.error(`VALIDATION ERROR: ${msg}`);
+  process.exit(1);
+}
+
 async function loadSourceIds() {
   const raw = JSON.parse(await fs.readFile(SOURCES, "utf-8"));
   if (!Array.isArray(raw.sources)) fail("sources.json must contain a sources array");
   return new Set(raw.sources.map((s) => s.source_id).filter(Boolean));
-}
-
-function fail(msg) {
-  console.error(`VALIDATION ERROR: ${msg}`);
-  process.exit(1);
 }
 
 async function main() {
